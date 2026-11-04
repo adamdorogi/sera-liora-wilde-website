@@ -58,3 +58,13 @@ Development-only concept files, prompts, layout measurements and reviews live un
 
 Requested Vercel project: `sera-liora-wilde-website` in `adamdorogis-projects`.
 The canonical URL is configured in `lib/business.ts`. Sitemap, robots, page titles, descriptions, Open Graph image and local business structured data are included.
+
+## Released build
+
+Production: https://sera-liora-wilde-website.vercel.app/
+
+Vercel project `sera-liora-wilde-website` · deployment `dpl_52Pa7EiQM3WQrmEjA3kua7X8WfaM` · release source commit `99b6fa4c2ba02cd498bfe92c83a39ed110019b4f`. The connected Vercel deployment uploads the application source and retrieves the verified public photography and fonts during the prebuild step.
+
+Validation: production build, TypeScript, ESLint, 28 local route checks, original URL redirects, custom 404, and browser journeys for search/filtering/navigation/enquiry preparation. Screens were checked at 1440, 1280, 800, 768 and 390px. Production dependencies have zero reported known vulnerabilities. The independent review’s tablet header finding was scored resolved.
+
+The finish review and design documentation ran in fresh agents using Impeccable’s review/documenter contracts; the available agent API has no custom named-agent selector.

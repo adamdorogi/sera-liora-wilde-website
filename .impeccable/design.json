@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-04T09:41:29.007Z",
+  "title": "Design System: The Wellness Collective",
+  "extensions": {
+    "colorMeta": {
+      "pine": {
+        "role": "primary",
+        "displayName": "Pine",
+        "canonical": "#203d35",
+        "tonalRamp": [
+          "oklch(15% 0.0381 174.21)",
+          "oklch(26% 0.0381 174.21)",
+          "oklch(38% 0.0381 174.21)",
+          "oklch(49% 0.0381 174.21)",
+          "oklch(61% 0.0381 174.21)",
+          "oklch(72% 0.0381 174.21)",
+          "oklch(84% 0.0381 174.21)",
+          "oklch(95% 0.0381 174.21)"
+        ]
+      },
+      "pine-deep": {
+        "role": "primary",
+        "displayName": "Deep Pine",
+        "canonical": "#173e31",
+        "tonalRamp": [
+          "oklch(15% 0.0503 168.60)",
+          "oklch(26% 0.0503 168.60)",
+          "oklch(38% 0.0503 168.60)",
+          "oklch(49% 0.0503 168.60)",
+          "oklch(61% 0.0503 168.60)",
+          "oklch(72% 0.0503 168.60)",
+          "oklch(84% 0.0503 168.60)",
+          "oklch(95% 0.0503 168.60)"
+        ]
+      },
+      "pine-hover": {
+        "role": "primary",
+        "displayName": "Pine Hover",
+        "canonical": "#315b48",
+        "tonalRamp": [
+          "oklch(15% 0.0573 163.23)",
+          "oklch(26% 0.0573 163.23)",
+          "oklch(38% 0.0573 163.23)",
+          "oklch(49% 0.0573 163.23)",
+          "oklch(61% 0.0573 163.23)",
+          "oklch(72% 0.0573 163.23)",
+          "oklch(84% 0.0573 163.23)",
+          "oklch(95% 0.0573 163.23)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "#f8f8f5",
+        "tonalRamp": [
+          "oklch(15% 0.0040 106.47)",
+          "oklch(26% 0.0040 106.47)",
+          "oklch(38% 0.0040 106.47)",
+          "oklch(49% 0.0040 106.47)",
+          "oklch(61% 0.0040 106.47)",
+          "oklch(72% 0.0040 106.47)",
+          "oklch(84% 0.0040 106.47)",
+          "oklch(95% 0.0040 106.47)"
+        ]
+      },
+      "celery": {
+        "role": "secondary",
+        "displayName": "Celery",
+        "canonical": "#edf1df",
+        "tonalRamp": [
+          "oklch(15% 0.0242 117.04)",
+          "oklch(26% 0.0242 117.04)",
+          "oklch(38% 0.0242 117.04)",
+          "oklch(49% 0.0242 117.04)",
+          "oklch(61% 0.0242 117.04)",
+          "oklch(72% 0.0242 117.04)",
+          "oklch(84% 0.0242 117.04)",
+          "oklch(95% 0.0242 117.04)"
+        ]
+      },
+      "community-paper": {
+        "role": "secondary",
+        "displayName": "Community Paper",
+        "canonical": "#e7ebdd",
+        "tonalRamp": [
+          "oklch(15% 0.0191 119.76)",
+          "oklch(26% 0.0191 119.76)",
+          "oklch(38% 0.0191 119.76)",
+          "oklch(49% 0.0191 119.76)",
+          "oklch(61% 0.0191 119.76)",
+          "oklch(72% 0.0191 119.76)",
+          "oklch(84% 0.0191 119.76)",
+          "oklch(95% 0.0191 119.76)"
+        ]
+      },
+      "rose": {
+        "role": "secondary",
+        "displayName": "Rose",
+        "canonical": "#e6b9ab",
+        "tonalRamp": [
+          "oklch(15% 0.0558 37.98)",
+          "oklch(26% 0.0558 37.98)",
+          "oklch(38% 0.0558 37.98)",
+          "oklch(49% 0.0558 37.98)",
+          "oklch(61% 0.0558 37.98)",
+          "oklch(72% 0.0558 37.98)",
+          "oklch(84% 0.0558 37.98)",
+          "oklch(95% 0.0558 37.98)"
+        ]
+      },
+      "rose-ink": {
+        "role": "secondary",
+        "displayName": "Rose Ink",
+        "canonical": "#9b5d4d",
+        "tonalRamp": [
+          "oklch(15% 0.0856 35.28)",
+          "oklch(26% 0.0856 35.28)",
+          "oklch(38% 0.0856 35.28)",
+          "oklch(49% 0.0856 35.28)",
+          "oklch(61% 0.0856 35.28)",
+          "oklch(72% 0.0856 35.28)",
+          "oklch(84% 0.0856 35.28)",
+          "oklch(95% 0.0856 35.28)"
+        ]
+      },
+      "review-paper": {
+        "role": "neutral",
+        "displayName": "Review Paper",
+        "canonical": "#f3e9e2",
+        "tonalRamp": [
+          "oklch(15% 0.0144 57.58)",
+          "oklch(26% 0.0144 57.58)",
+          "oklch(38% 0.0144 57.58)",
+          "oklch(49% 0.0144 57.58)",
+          "oklch(61% 0.0144 57.58)",
+          "oklch(72% 0.0144 57.58)",
+          "oklch(84% 0.0144 57.58)",
+          "oklch(95% 0.0144 57.58)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "#52655b",
+        "tonalRamp": [
+          "oklch(15% 0.0280 162.24)",
+          "oklch(26% 0.0280 162.24)",
+          "oklch(38% 0.0280 162.24)",
+          "oklch(49% 0.0280 162.24)",
+          "oklch(61% 0.0280 162.24)",
+          "oklch(72% 0.0280 162.24)",
+          "oklch(84% 0.0280 162.24)",
+          "oklch(95% 0.0280 162.24)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "canonical": "#d5ddd0",
+        "tonalRamp": [
+          "oklch(15% 0.0195 133.09)",
+          "oklch(26% 0.0195 133.09)",
+          "oklch(38% 0.0195 133.09)",
+          "oklch(49% 0.0195 133.09)",
+          "oklch(61% 0.0195 133.09)",
+          "oklch(72% 0.0195 133.09)",
+          "oklch(84% 0.0195 133.09)",
+          "oklch(95% 0.0195 133.09)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26% 0.0000 0.00)",
+          "oklch(38% 0.0000 0.00)",
+          "oklch(49% 0.0000 0.00)",
+          "oklch(61% 0.0000 0.00)",
+          "oklch(72% 0.0000 0.00)",
+          "oklch(84% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Two-line homepage headline; mobile sizing is documented in DESIGN.md."
+      },
+      "page-heading": {
+        "displayName": "Page heading",
+        "purpose": "Editorial, directory and utility-page introductions."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Large section headings; the stylesheet retains contextual variants."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Practitioner names below photographs."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base body role; reading copy uses the documented contextual variants."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Visible contact-field labels; no uppercase eyebrow pattern is established."
+      },
+      "control": {
+        "displayName": "Control",
+        "purpose": "Primary and light action pills."
+      },
+      "field": {
+        "displayName": "Field",
+        "purpose": "Contact input, select and textarea text."
+      },
+      "navigation": {
+        "displayName": "Navigation",
+        "purpose": "Desktop navigation at its base size."
+      }
+    },
+    "shadows": [
+      {
+        "name": "map-action",
+        "value": "0 16px 36px rgb(23 62 49 / 10%)",
+        "purpose": "Floating map action; this is the --shadow custom property."
+      },
+      {
+        "name": "button-hover",
+        "value": "0 5px 14px rgb(23 62 49 / 12%)",
+        "purpose": "Primary and light button hover."
+      },
+      {
+        "name": "open-menu",
+        "value": "0 15px 25px rgb(23 62 49 / 10%)",
+        "purpose": "Navigation panel below the header at 1050px and below."
+      },
+      {
+        "name": "gift-artwork",
+        "value": "0 20px 55px rgb(30 47 32 / 16%)",
+        "purpose": "The physical gift-card artwork, not ordinary directory cards."
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-state",
+        "value": "background 0.2s, color 0.2s, box-shadow 0.2s",
+        "purpose": "Action-pill state changes; links and disclosures also use 200ms transitions."
+      },
+      {
+        "name": "filter-state",
+        "value": "background 0.15s, color 0.15s",
+        "purpose": "Offering-filter selection and hover."
+      },
+      {
+        "name": "portrait-hover",
+        "value": "transform 0.45s cubic-bezier(0.2, 0.8, 0.2, 1)",
+        "purpose": "Portrait enlargement inside a clipped frame."
+      },
+      {
+        "name": "sunroom-open",
+        "value": "0.85s cubic-bezier(0.16, 1, 0.3, 1) both",
+        "purpose": "One hero-image aperture reveal, from inset(0 0 7% 0) to inset(0 0 0 0), with brightness 0.97 to 1."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation: none !important; transition: none !important; scroll-behavior: auto",
+        "purpose": "The reduce media query keeps all content visible and removes animation, transitions and smooth scrolling."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile-layout-max",
+        "value": "760px"
+      },
+      {
+        "name": "navigation-menu-and-two-column-directory-max",
+        "value": "1050px"
+      },
+      {
+        "name": "compact-desktop-max",
+        "value": "1300px"
+      },
+      {
+        "name": "wide-hero-min",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Pine pill for the main next step; arrow, hover shadow and keyboard focus match the site.",
+      "html": "<a class=\"ds-btn-primary\" href=\"/practitioners\">Find your practitioner <svg aria-hidden=\"true\" width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></a>",
+      "css": ".ds-btn-primary{padding:15px 27px;min-height:55px;border-radius:100px;display:inline-flex;align-items:center;justify-content:center;gap:15px;font-family:var(--font-sans,Manrope),sans-serif;font-size:16px;font-weight:500;border:0;line-height:1.35;text-decoration:none;white-space:nowrap;transition:background .2s,color .2s,box-shadow .2s;cursor:pointer;background:var(--pine,#203d35);color:var(--paper,#f8f8f5)}.ds-btn-primary:hover{background:var(--pine-hover,#315b48);box-shadow:0 5px 14px rgb(23 62 49 / 12%)}.ds-btn-primary:focus-visible{outline:3px solid var(--rose-ink,#9b5d4d);outline-offset:5px}@media(max-width:760px){.ds-btn-primary{font-size:14px;min-height:50px;white-space:normal;text-align:center}}@media(prefers-reduced-motion:reduce){.ds-btn-primary,.ds-btn-light,.ds-text-link,.ds-filter button{transition:none}}"
+    },
+    {
+      "name": "Light button",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Celery pill for a primary action on a dark section.",
+      "html": "<a class=\"ds-btn-light\" href=\"/our-vision\">Help our next chapter take root <svg aria-hidden=\"true\" width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></a>",
+      "css": ".ds-btn-light{padding:15px 27px;min-height:55px;border-radius:100px;display:inline-flex;align-items:center;justify-content:center;gap:15px;font-family:var(--font-sans,Manrope),sans-serif;font-size:16px;font-weight:500;border:0;line-height:1.35;text-decoration:none;white-space:nowrap;transition:background .2s,color .2s,box-shadow .2s;cursor:pointer;background:var(--celery,#edf1df);color:var(--pine,#203d35)}.ds-btn-light:hover{background:#fff;color:var(--pine,#203d35);box-shadow:0 5px 14px rgb(23 62 49 / 12%)}.ds-btn-light:focus-visible{outline:3px solid var(--rose-ink,#9b5d4d);outline-offset:5px}@media(max-width:760px){.ds-btn-light{font-size:14px;min-height:50px;white-space:normal;text-align:center}}@media(prefers-reduced-motion:reduce){.ds-btn-primary,.ds-btn-light,.ds-text-link,.ds-filter button{transition:none}}"
+    },
+    {
+      "name": "Secondary text link",
+      "kind": "button",
+      "refersTo": "text-link",
+      "description": "Quiet companion action; the underline appears on hover.",
+      "html": "<a class=\"ds-text-link\" href=\"/offerings\">Explore our offerings <svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14m-7-7 7 7-7 7\"/></svg></a>",
+      "css": ".ds-text-link{display:inline-flex;align-items:center;gap:10px;font-family:var(--font-sans,Manrope),sans-serif;font-size:16px;font-weight:400;line-height:1.5;padding:10px 0;color:var(--pine,#203d35);text-decoration:underline;text-decoration-color:transparent;text-underline-offset:6px;transition:text-decoration-color .2s}.ds-text-link:hover{text-decoration-color:currentColor}.ds-text-link:focus-visible{outline:3px solid var(--rose-ink,#9b5d4d);outline-offset:5px}@media(max-width:760px){.ds-text-link{font-size:14px}}@media(prefers-reduced-motion:reduce){.ds-btn-primary,.ds-btn-light,.ds-text-link,.ds-filter button{transition:none}}"
+    },
+    {
+      "name": "Directory search",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "White search pill; the wrapper carries the focus outline.",
+      "html": "<label class=\"ds-search\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"m21 21-4.3-4.3\"/></svg><input type=\"search\" aria-label=\"Search practitioners, therapies or locations\" placeholder=\"A person, a practice, a place…\"/></label>",
+      "css": ".ds-search{display:flex;align-items:center;gap:14px;max-width:610px;border:1px solid #b9c8b7;background:#fff;border-radius:100px;padding:12px 19px;color:var(--pine,#203d35)}.ds-search input{outline:none;border:0;background:transparent;color:var(--pine,#203d35);font-family:var(--font-sans,Manrope),sans-serif;font-size:15px;min-width:0;flex:1;width:100%;line-height:1.6;caret-color:var(--pine,#203d35)}.ds-search input::placeholder{color:#627165}.ds-search:focus-within{outline:2px solid var(--pine,#203d35);outline-offset:3px}@media(max-width:760px){.ds-search{padding:11px 15px;gap:10px}.ds-search input{font-size:13px;line-height:1.65}}"
+    },
+    {
+      "name": "Offering filter",
+      "kind": "chip",
+      "refersTo": "filter-chip",
+      "description": "Unselected and selected filter states; the source directory updates the URL and results.",
+      "html": "<div class=\"ds-filter\" role=\"group\" aria-label=\"Filter practitioners by offering\"><button type=\"button\" aria-pressed=\"true\">Everyone</button><button type=\"button\" aria-pressed=\"false\">Bodywork</button></div>",
+      "css": ".ds-filter{display:flex;flex-wrap:wrap;gap:9px}.ds-filter button{border:1px solid var(--line,#d5ddd0);background:transparent;color:var(--pine,#203d35);padding:9px 17px;border-radius:100px;font-family:var(--font-sans,Manrope),sans-serif;font-size:12px;font-weight:400;line-height:1.5;cursor:pointer;transition:background .15s,color .15s}.ds-filter button:hover{background:var(--celery,#edf1df)}.ds-filter button[aria-pressed=\"true\"]{background:var(--pine,#203d35);color:#fff;border-color:var(--pine,#203d35)}.ds-filter button:focus-visible{outline:3px solid var(--rose-ink,#9b5d4d);outline-offset:5px}@media(max-width:760px){.ds-filter{gap:8px}.ds-filter button{font-size:10px;padding:8px 12px;line-height:1.6}}@media(prefers-reduced-motion:reduce){.ds-btn-primary,.ds-btn-light,.ds-text-link,.ds-filter button{transition:none}}"
+    },
+    {
+      "name": "Practitioner card information",
+      "kind": "card",
+      "refersTo": "practitioner-card",
+      "description": "The flat information block below a source photograph; photography stays in the site assets.",
+      "html": "<article class=\"ds-card\"><p class=\"ds-card-location\"><svg aria-hidden=\"true\" width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0Z\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/></svg>Birkdale</p><h3 class=\"ds-card-name\"><a href=\"/wildemassage\">Sera Liora Wilde</a></h3><p class=\"ds-card-role\">Founder · Massage &amp; holistic bodywork</p><p class=\"ds-card-description\">Remedial massage, Lomi Lomi, Reiki, yoga and care tailored to you.</p><a class=\"ds-card-link\" href=\"/wildemassage\">Meet Sera <svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></a></article>",
+      "css": ".ds-card{padding-top:18px;color:var(--pine,#203d35);font-family:var(--font-sans,Manrope),sans-serif}.ds-card-location{display:flex;align-items:center;gap:6px;font-size:12px;line-height:1.6;color:var(--muted,#52655b);margin:0}.ds-card-name{font-family:var(--font-display,Baskervville),serif;font-size:27px;font-weight:400;margin:7px 0 0;line-height:1.15}.ds-card a{color:inherit;text-decoration:none}.ds-card-name a:hover{text-decoration:underline;text-underline-offset:4px}.ds-card-role{font-size:12px;line-height:1.6;margin:8px 0 0;font-weight:600}.ds-card-description{font-size:14px;line-height:1.7;color:var(--muted,#52655b);margin:10px 0 0}.ds-card-link{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;margin-top:16px;padding-bottom:3px;border-bottom:1px solid var(--line,#d5ddd0)}.ds-card-link:hover{border-color:var(--pine,#203d35)}.ds-card a:focus-visible{outline:3px solid var(--rose-ink,#9b5d4d);outline-offset:5px}@media(max-width:760px){.ds-card{padding-top:13px}.ds-card-name{font-size:22px}.ds-card-role{font-size:10px;line-height:1.65;margin-top:7px}.ds-card-description{font-size:12px;line-height:1.65}.ds-card-location{font-size:10px}.ds-card-link{font-size:11px;gap:5px;margin-top:13px}}"
+    },
+    {
+      "name": "Contact field",
+      "kind": "input",
+      "refersTo": "contact-field",
+      "description": "Visible field label, Paper background and native email validation.",
+      "html": "<label class=\"ds-field\">Email address<input name=\"email\" type=\"email\" autocomplete=\"email\" required maxlength=\"200\"/></label>",
+      "css": ".ds-field{display:flex;flex-direction:column;font-family:var(--font-sans,Manrope),sans-serif;font-size:12px;line-height:1.7;gap:7px;margin-bottom:20px;font-weight:500;color:var(--pine,#203d35)}.ds-field input{width:100%;background:var(--paper,#f8f8f5);border:1px solid #b9c7b2;color:var(--pine,#203d35);padding:11px 13px;border-radius:7px;min-width:0;font:400 14px/1.65 var(--font-sans,Manrope),sans-serif;caret-color:var(--pine,#203d35)}.ds-field input:focus-visible{outline:3px solid var(--rose-ink,#9b5d4d);outline-offset:5px}"
+    },
+    {
+      "name": "Desktop navigation excerpt",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Current-link underline and compact booking pill; the full header switches to a menu at 1050px.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"/practitioners\" aria-current=\"page\">Our collective</a><a href=\"/offerings\">Our offerings</a><a class=\"ds-nav-book\" href=\"/book\">Book with Sera <svg aria-hidden=\"true\" width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:clamp(20px,2.7vw,40px);font:400 15px/1.7 var(--font-sans,Manrope),sans-serif;white-space:nowrap;background:var(--paper,#f8f8f5);color:var(--pine,#203d35)}.ds-nav>a{color:inherit;text-decoration:none;padding:8px 0}.ds-nav>a[aria-current=\"page\"]{text-decoration:underline;text-underline-offset:7px}.ds-nav a:hover{color:var(--rose-ink,#9b5d4d)}.ds-nav>a.ds-nav-book{padding:15px 27px;min-height:55px;border-radius:100px;display:inline-flex;align-items:center;justify-content:center;gap:15px;font-family:var(--font-sans,Manrope),sans-serif;font-size:16px;font-weight:500;border:0;line-height:1.35;text-decoration:none;white-space:nowrap;transition:background .2s,color .2s,box-shadow .2s;cursor:pointer;background:var(--pine,#203d35);color:var(--paper,#f8f8f5);min-height:44px;padding:12px 24px;font-size:15px}.ds-nav a.ds-nav-book:hover{background:var(--pine-hover,#315b48);color:#fff;box-shadow:0 5px 14px rgb(23 62 49 / 12%)}.ds-nav a:focus-visible{outline:3px solid var(--rose-ink,#9b5d4d);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-nav-book{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Sunroom",
+    "overview": "A welcoming window onto independent local care. The approved image-first direction pairs generous near-white space with pine green, pale celery and soft rose. Elegant Roman serif headings and plain sans text make the collective feel personal and useful.\n\nSource photography supplies the people and places. Arches give larger photographs a gentle architectural frame; the directory gives each practitioner the same clear portrait, name, role and next step. The approved composition is recorded in `.impeccable/surfaces/app-page-tsx.md`; it does not prescribe the composition of every future page.",
+    "keyCharacteristics": [
+      "Human photography with deliberate crops.",
+      "Spacious editorial sections and a flat directory.",
+      "Real lowercase and italic serif lettering.",
+      "Small pill controls with explicit interaction states."
+    ],
+    "rules": [
+      {
+        "name": "The Typeface Fidelity Rule",
+        "body": "Use the supplied regular and italic Baskervville faces so lowercase and italic letters remain intact; do not substitute a small-caps display face.",
+        "section": "typography"
+      }
+    ],
+    "dos": [
+      "**Do** use approved source photographs for people and places, with deliberate crops.",
+      "**Do** preserve the local Baskervville regular and italic lettering.",
+      "**Do** keep selected filters and keyboard focus visually explicit.",
+      "**Do** give independent practitioners equal card structure and a clear next step."
+    ],
+    "donts": [
+      "**Don't** replace genuine practitioner or clinic photographs with illustrative faces or rooms.",
+      "**Don't** introduce a small-caps substitute for the display font.",
+      "**Don't** turn the flat practitioner directory into a set of raised panels."
+    ]
+  }
+}
