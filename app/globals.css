@@ -3753,3 +3753,30 @@ textarea {
     font-size: 10px;
   }
 }
+@media (min-width: 761px) and (max-width: 1050px) {
+  .desktop-nav {
+    display: none;
+  }
+  .menu-toggle {
+    display: flex;
+  }
+  .mobile-nav {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    padding: 13px 44px 24px;
+    background: var(--paper);
+    box-shadow: 0 15px 25px rgb(23 62 49 / 10%);
+  }
+  .mobile-nav a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 16px;
+  }
+}
