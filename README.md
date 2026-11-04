@@ -28,7 +28,7 @@ The directory searches names, offerings and locations, with URL-based category f
 
 - Sera’s bookings: existing Square calendar and individual service links.
 - Independent members: their original external websites, phone numbers and booking services.
-- Gift cards: existing Square merchant `ML42ER3KH4QQT`, embedded with a direct checkout fallback. The merchant checkout can show the legacy name “Wilde Collective – Massage & Healing Spa”.
+- Gift cards: existing Square merchant `ML42ER3KH4QQT`, opened through a clear secure-checkout handoff. The merchant checkout can show the legacy name “Wilde Collective – Massage & Healing Spa”.
 - Enquiry form: validates locally and prepares an email for the visitor to review and send. It does not claim to submit a message or require an email API key. A copy fallback is provided.
 - Directions: Google Maps to 42 Murray Street, Birkdale QLD 4159.
 

@@ -7,13 +7,15 @@
     "build": "next build",
     "start": "next start --hostname 0.0.0.0",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "prebuild": "node scripts/prepare-deployment.mjs"
   },
   "dependencies": {
+    "lucide-react": "^0.577.0",
     "next": "16.4.5",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "lucide-react": "^0.577.0"
+    "sharp": "0.35.5"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
@@ -21,6 +23,10 @@
     "@types/react-dom": "^19.0.0",
     "eslint": "^9.0.0",
     "eslint-config-next": "16.4.5",
+    "prettier": "3.9.10",
     "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20.9.0"
   }
 }

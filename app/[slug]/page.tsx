@@ -1,18 +1,179 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
-import { Mail, Phone, Globe, ArrowUpRight } from 'lucide-react';
-import { practitioners, getSource, profileText } from '@/lib/content';
-import { categories, business } from '@/lib/business';
-import { Breadcrumb, ButtonLink, HelpBanner, Location } from '@/components/ui';
-import { RichCopy } from '@/components/rich-copy';
+import Image from "next/image";
+import Link from "next/link";
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import { Mail, Phone, Globe, ArrowUpRight } from "lucide-react";
+import { practitioners, getSource, profileText } from "@/lib/content";
+import { categories, business } from "@/lib/business";
+import { Breadcrumb, ButtonLink, HelpBanner, Location } from "@/components/ui";
+import { RichCopy } from "@/components/rich-copy";
 export const dynamicParams = false;
-export function generateStaticParams(){return practitioners.map(p=>({slug:p.slug}));}
-export async function generateMetadata({params}:{params:Promise<{slug:string}>}):Promise<Metadata>{const {slug}=await params;const p=practitioners.find(p=>p.slug===slug);return p?{title:`${p.name} · ${p.role}`,description:p.intro,alternates:{canonical:`/${slug}`}}:{title:'Practitioner not found'};}
-export default async function ProfilePage({params}:{params:Promise<{slug:string}>}){
- const {slug}=await params;const p=practitioners.find(p=>p.slug===slug);if(!p)notFound();const source=getSource(slug);const texts=profileText(slug);const otherPhoto=source.images.find(i=>i.local!==p.image&&!/logo|banner|white_letter|Pure Water|Screenshot|Dream Weaver/i.test(i.alt));
- const booking=slug==='wildemassage'?'/book':p.booking;
- const bookingLabel=slug==='wildemassage'?'Treatments & booking':slug==='dreamweaver-community-dance'?'Explore event tickets':booking.startsWith('tel:')?`Call ${p.name.split(' ')[0]}`:booking.startsWith('mailto:')?`Email ${p.name.split(' ')[0]}`:'Contact & booking';
- return <main id="main-content"><div className="container"><Breadcrumb current={p.name} parent={{href:'/practitioners',name:'Our collective'}}/><section className="profile-hero"><div className="profile-photo"><Image src={p.image} alt={slug==='wildemassage'?'Massage and holistic bodywork with Sera':p.name} fill priority sizes="(max-width: 760px) 90vw, 42vw"/></div><div className="profile-welcome"><Location>{p.location}</Location><h1>{p.name}</h1><p className="profile-subtitle">{p.role}</p><p className="profile-lead">{p.intro}</p><div className="profile-tags">{categories.filter(c=>p.categories.includes(c.id)).map(c=><Link href={`/practitioners?category=${c.id}`} key={c.id}>{c.short}<ArrowUpRight size={12}/></Link>)}</div><ButtonLink href={booking}>{bookingLabel}</ButtonLink>{slug==='wildemassage'&&<p className="profile-small">Qualified Remedial Massage Therapist · Reiki Master · Yoga Teacher</p>}</div></section><div className="profile-body"><article className="profile-story"><h2>{slug==='dreamweaver-community-dance'?'Dream it. Dance it. Weave it.':`Get to know ${p.name === 'The Pure Water Specialists'?'the team':p.name.split(' ')[0]}.`}</h2><RichCopy texts={texts}/>{otherPhoto&&<figure className="profile-secondary-image"><Image src={otherPhoto.local} alt={`${p.name} — a glimpse into the practice`} width={otherPhoto.width||900} height={otherPhoto.height||650} sizes="(max-width: 760px) 90vw, 55vw"/></figure>}</article><aside className="booking-aside"><h2>Take the next step.</h2><p>Connect directly with {p.name === 'The Pure Water Specialists'?'the team':p.name.split(' ')[0]} for availability, current prices and a conversation about what you’re looking for.</p><ButtonLink href={booking}>{bookingLabel}</ButtonLink><div className="contact-list">{p.phone&&<a href={`tel:${p.phone.replace(/\s/g,'').replace(/^0/,'+61')}`}><Phone size={17}/>{p.phone}</a>}{p.email&&<a href={`mailto:${p.email}`}><Mail size={17}/>{p.email}</a>}{p.website&&<a href={p.website} target="_blank" rel="noopener noreferrer"><Globe size={17}/>Visit website<ArrowUpRight size={13}/></a>}</div><div className="aside-note"><Location>{p.location}</Location><p>Each member of our collective runs their own practice. Confirm your appointment location and booking terms directly.</p></div></aside></div><div className="back-directory"><ButtonLink href="/practitioners" secondary>Explore the whole collective</ButtonLink><ButtonLink href={`mailto:${business.email}`} secondary>Need help choosing?</ButtonLink></div></div><HelpBanner/></main>;
+export function generateStaticParams() {
+  return practitioners.map((p) => ({ slug: p.slug }));
+}
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const p = practitioners.find((p) => p.slug === slug);
+  return p
+    ? {
+        title: `${p.name} · ${p.role}`,
+        description: p.intro,
+        alternates: { canonical: `/${slug}` },
+      }
+    : { title: "Practitioner not found" };
+}
+export default async function ProfilePage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug } = await params;
+  const p = practitioners.find((p) => p.slug === slug);
+  if (!p) notFound();
+  const source = getSource(slug);
+  const texts = profileText(slug);
+  const otherPhoto = source.images.find(
+    (i) =>
+      i.local !== p.image &&
+      !/logo|banner|white_letter|Pure Water|Screenshot|Dream Weaver/i.test(
+        i.alt,
+      ),
+  );
+  const booking = slug === "wildemassage" ? "/book" : p.booking;
+  const bookingLabel =
+    slug === "wildemassage"
+      ? "Treatments & booking"
+      : slug === "dreamweaver-community-dance"
+        ? "Explore event tickets"
+        : booking.startsWith("tel:")
+          ? `Call ${p.name.split(" ")[0]}`
+          : booking.startsWith("mailto:")
+            ? `Email ${p.name.split(" ")[0]}`
+            : "Contact & booking";
+  return (
+    <main id="main-content">
+      <div className="container">
+        <Breadcrumb
+          current={p.name}
+          parent={{ href: "/practitioners", name: "Our collective" }}
+        />
+        <section className="profile-hero">
+          <div className="profile-photo">
+            <Image
+              src={p.image}
+              className={slug === "lily" ? "upright-portrait" : undefined}
+              alt={
+                slug === "wildemassage"
+                  ? "Massage and holistic bodywork with Sera"
+                  : p.name
+              }
+              fill
+              loading="eager"
+              fetchPriority="high"
+              sizes="(max-width: 760px) 90vw, 42vw"
+            />
+          </div>
+          <div className="profile-welcome">
+            <Location>{p.location}</Location>
+            <h1>{p.name}</h1>
+            <p className="profile-subtitle">{p.role}</p>
+            <p className="profile-lead">{p.intro}</p>
+            <div className="profile-tags">
+              {categories
+                .filter((c) => p.categories.includes(c.id))
+                .map((c) => (
+                  <Link href={`/practitioners?category=${c.id}`} key={c.id}>
+                    {c.short}
+                    <ArrowUpRight size={12} />
+                  </Link>
+                ))}
+            </div>
+            <ButtonLink href={booking}>{bookingLabel}</ButtonLink>
+            {slug === "wildemassage" && (
+              <p className="profile-small">
+                Qualified Remedial Massage Therapist · Reiki Master · Yoga
+                Teacher
+              </p>
+            )}
+          </div>
+        </section>
+        <div className="profile-body">
+          <article className="profile-story">
+            <h2>
+              {slug === "dreamweaver-community-dance"
+                ? "Dream it. Dance it. Weave it."
+                : `Get to know ${p.name === "The Pure Water Specialists" ? "the team" : p.name.split(" ")[0]}.`}
+            </h2>
+            <RichCopy texts={texts} />
+            {otherPhoto && (
+              <figure className="profile-secondary-image">
+                <Image
+                  src={otherPhoto.local}
+                  alt={`${p.name} — a glimpse into the practice`}
+                  width={otherPhoto.width || 900}
+                  height={otherPhoto.height || 650}
+                  sizes="(max-width: 760px) 90vw, 55vw"
+                />
+              </figure>
+            )}
+          </article>
+          <aside className="booking-aside">
+            <h2>Take the next step.</h2>
+            <p>
+              Connect directly with{" "}
+              {p.name === "The Pure Water Specialists"
+                ? "the team"
+                : p.name.split(" ")[0]}{" "}
+              for availability, current prices and a conversation about what
+              you’re looking for.
+            </p>
+            <ButtonLink href={booking}>{bookingLabel}</ButtonLink>
+            <div className="contact-list">
+              {p.phone && (
+                <a
+                  href={`tel:${p.phone.replace(/\s/g, "").replace(/^0/, "+61")}`}
+                >
+                  <Phone size={17} />
+                  {p.phone}
+                </a>
+              )}
+              {p.email && (
+                <a href={`mailto:${p.email}`}>
+                  <Mail size={17} />
+                  {p.email}
+                </a>
+              )}
+              {p.website && (
+                <a href={p.website} target="_blank" rel="noopener noreferrer">
+                  <Globe size={17} />
+                  Visit website
+                  <ArrowUpRight size={13} />
+                </a>
+              )}
+            </div>
+            <div className="aside-note">
+              <Location>{p.location}</Location>
+              <p>
+                Each member of our collective runs their own practice. Confirm
+                your appointment location and booking terms directly.
+              </p>
+            </div>
+          </aside>
+        </div>
+        <div className="back-directory">
+          <ButtonLink href="/practitioners" secondary>
+            Explore the whole collective
+          </ButtonLink>
+          <ButtonLink href={`mailto:${business.email}`} secondary>
+            Need help choosing?
+          </ButtonLink>
+        </div>
+      </div>
+      <HelpBanner />
+    </main>
+  );
 }

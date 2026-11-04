@@ -1,5 +1,119 @@
-import type { Metadata } from 'next';
-import Image from 'next/image';
-import { Breadcrumb, ButtonLink, HelpBanner } from '@/components/ui';
-export const metadata:Metadata={title:'A collective, built on connection',description:'Meet the story and values behind Sera Liora Wilde’s Wellness Collective, a collaborative network of independent wellbeing practitioners.',alternates:{canonical:'/about'}};
-export default function AboutPage(){return <main id="main-content"><div className="container"><Breadcrumb current="Our story"/><section className="editorial-hero"><div><h1>Wellbeing is personal.<br/><em>We believe in that.</em></h1><p className="lead">A living, breathing network of practitioners, creatives and facilitators. Different approaches, connected by a shared commitment to care.</p><ButtonLink href="/practitioners">Meet the collective</ButtonLink></div><div className="editorial-image"><Image src="/images/20f922e0de5d.jpg" alt="A private, tree-lined outlook from the Birkdale wellness space" fill priority sizes="(max-width: 760px) 90vw, 46vw"/></div></section><section className="reading-section"><h2>A place to be met<br/>exactly where you are.</h2><div><p>Founded by Sera Liora Wilde, The Wellness Collective brings together independent people who work with integrity, presence and care. Each offering stands on its own, while the people behind it share values of authenticity, safety, respect and support for the whole person.</p><p>We work as a collaborative ecosystem. Our practitioners are independent in their work and supported to show up as themselves. For you, that means a diverse range of modalities, perspectives and personalities to explore.</p><p>At its heart, the collective is about connection: to yourself, to others and to the parts of life that can get lost in the everyday rush. There is room here to slow down, ask questions and find what feels right for you.</p><p>Some members practise in our Birkdale space. Others welcome you at their own clinics, online, in nature or through mobile sessions. Every profile helps you find the right place and the right next step.</p></div></section><div className="belief-statement"><p>Community over competition.<br/><em>Collaboration over hierarchy.</em></p></div><section className="reading-section"><h2>A little space.<br/>A bigger vision.</h2><div><p>We’re currently based in Birkdale, with a growing network across Brisbane, the Redlands and beyond. Our next chapter is a shared wellness destination where nature, nourishing food, movement, practitioners and community can come together.</p><ButtonLink href="/our-vision" secondary>Explore the vision for our future home</ButtonLink></div></section><section className="membership-section"><h2>Proud member of IICT.</h2><div><p>The collective is a member of the International Institute for Complementary Therapists. Exploring your own practitioner membership? The original site shares a referral offer of $20 off using code <strong>1SERALIORAW35</strong>.</p><ButtonLink href="https://ref.myiict.com/l/1SERALIORAW35/" secondary>Explore IICT membership & current offer</ButtonLink></div></section></div><HelpBanner/></main>}
+import type { Metadata } from "next";
+import Image from "next/image";
+import { Breadcrumb, ButtonLink, HelpBanner } from "@/components/ui";
+export const metadata: Metadata = {
+  title: "A collective, built on connection",
+  description:
+    "Meet the story and values behind Sera Liora Wilde’s Wellness Collective, a collaborative network of independent wellbeing practitioners.",
+  alternates: { canonical: "/about" },
+};
+export default function AboutPage() {
+  return (
+    <main id="main-content">
+      <div className="container">
+        <Breadcrumb current="Our story" />
+        <section className="editorial-hero">
+          <div>
+            <h1>
+              Wellbeing is personal.
+              <br />
+              <em>We believe in that.</em>
+            </h1>
+            <p className="lead">
+              A living, breathing network of practitioners, creatives and
+              facilitators. Different approaches, connected by a shared
+              commitment to care.
+            </p>
+            <ButtonLink href="/practitioners">Meet the collective</ButtonLink>
+          </div>
+          <div className="editorial-image">
+            <Image
+              src="/images/20f922e0de5d.jpg"
+              alt="A private, tree-lined outlook from the Birkdale wellness space"
+              fill
+              loading="eager"
+              fetchPriority="high"
+              sizes="(max-width: 760px) 90vw, 46vw"
+            />
+          </div>
+        </section>
+        <section className="reading-section">
+          <h2>
+            A place to be met
+            <br />
+            exactly where you are.
+          </h2>
+          <div>
+            <p>
+              Founded by Sera Liora Wilde, The Wellness Collective brings
+              together independent people who work with integrity, presence and
+              care. Each offering stands on its own, while the people behind it
+              share values of authenticity, safety, respect and support for the
+              whole person.
+            </p>
+            <p>
+              We work as a collaborative ecosystem. Our practitioners are
+              independent in their work and supported to show up as themselves.
+              For you, that means a diverse range of modalities, perspectives
+              and personalities to explore.
+            </p>
+            <p>
+              At its heart, the collective is about connection: to yourself, to
+              others and to the parts of life that can get lost in the everyday
+              rush. There is room here to slow down, ask questions and find what
+              feels right for you.
+            </p>
+            <p>
+              Some members practise in our Birkdale space. Others welcome you at
+              their own clinics, online, in nature or through mobile sessions.
+              Every profile helps you find the right place and the right next
+              step.
+            </p>
+          </div>
+        </section>
+        <div className="belief-statement">
+          <p>
+            Community over competition.
+            <br />
+            <em>Collaboration over hierarchy.</em>
+          </p>
+        </div>
+        <section className="reading-section">
+          <h2>
+            A little space.
+            <br />A bigger vision.
+          </h2>
+          <div>
+            <p>
+              We’re currently based in Birkdale, with a growing network across
+              Brisbane, the Redlands and beyond. Our next chapter is a shared
+              wellness destination where nature, nourishing food, movement,
+              practitioners and community can come together.
+            </p>
+            <ButtonLink href="/our-vision" secondary>
+              Explore the vision for our future home
+            </ButtonLink>
+          </div>
+        </section>
+        <section className="membership-section">
+          <h2>Proud member of IICT.</h2>
+          <div>
+            <p>
+              The collective is a member of the International Institute for
+              Complementary Therapists. Exploring your own practitioner
+              membership? The original site shares a referral offer of $20 off
+              using code <strong>1SERALIORAW35</strong>.
+            </p>
+            <ButtonLink
+              href="https://ref.myiict.com/l/1SERALIORAW35/"
+              secondary
+            >
+              Explore IICT membership & current offer
+            </ButtonLink>
+          </div>
+        </section>
+      </div>
+      <HelpBanner />
+    </main>
+  );
+}

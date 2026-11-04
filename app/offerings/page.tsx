@@ -1,8 +1,106 @@
-import type { Metadata } from 'next';
-import Image from 'next/image';
-import { categories } from '@/lib/business';
-import { Breadcrumb, ButtonLink, HelpBanner } from '@/components/ui';
-const pictures=['/images/80940a5943a0.jpg','/images/179f1f0ed60a.jpeg','/images/f099ac24a0c1.jpeg','/images/019077963868.jpeg','/images/33f85bf1ef7a.jpeg','/images/5b7dee14a54f.jpg'];
-const offerings=[['Remedial & relaxation massage','Ka Huna & Lomi Lomi','Zenthai Shiatsu','Hot stones & scalp massage','Mobile & corporate massage'],['Reiki & meditation','Holistic counselling','PSYCH-K® & mindset','Kinesiology & Brain Gym','Complementary frequency practices'],['One-to-one yoga','Vinyasa, Yin & restorative','Somatic yoga & inversions','Breathwork & sound experiences'],['Pregnancy & postpartum care','Botanical facials','Feminine self-care rituals','Herbal education & practitioner training'],['DreamWeaver seasonal dance','Retreats & cacao gatherings','Reiki training & workshops','Facilitator education & mentoring'],['Equine-assisted experiences','Edible gardens & plant growing','Pure water solutions','Practical support for everyday living']];
-export const metadata:Metadata={title:'Care, in all its forms',description:'Explore massage, yoga, energy practices, women’s wellness, community experiences and nature-based wellbeing through The Wellness Collective.',alternates:{canonical:'/offerings'}};
-export default function OfferingsPage(){return <main id="main-content"><div className="page-intro container"><Breadcrumb current="Our offerings"/><div className="page-heading"><h1>Many paths<br/>to <em>feeling well.</em></h1><p>You might know exactly what you need. Or you might simply know it’s time for a little care. Explore our independent practitioners’ offerings and see what speaks to you.</p></div></div><div className="container offerings-list">{categories.map((c,i)=><section id={c.id} className="offering-row" key={c.id}><div className="offering-photo"><Image src={pictures[i]} alt={c.name} fill sizes="(max-width: 760px) 90vw, 40vw"/></div><div className="offering-copy"><h2>{c.name}</h2><p>{c.description}</p><ul>{offerings[i].map(o=><li key={o}>{o}</li>)}</ul><ButtonLink href={`/practitioners?category=${c.id}`} secondary>Meet the people behind the practice</ButtonLink></div></section>)}</div><HelpBanner/></main>}
+import type { Metadata } from "next";
+import Image from "next/image";
+import { categories } from "@/lib/business";
+import { Breadcrumb, ButtonLink, HelpBanner } from "@/components/ui";
+const pictures = [
+  "/images/80940a5943a0.jpg",
+  "/images/179f1f0ed60a.jpeg",
+  "/images/f099ac24a0c1.jpeg",
+  "/images/019077963868.jpeg",
+  "/images/33f85bf1ef7a.jpeg",
+  "/images/5b7dee14a54f.jpg",
+];
+const offerings = [
+  [
+    "Remedial & relaxation massage",
+    "Ka Huna & Lomi Lomi",
+    "Zenthai Shiatsu",
+    "Hot stones & scalp massage",
+    "Mobile & corporate massage",
+  ],
+  [
+    "Reiki & meditation",
+    "Holistic counselling",
+    "PSYCH-K® & mindset",
+    "Kinesiology & Brain Gym",
+    "Complementary frequency practices",
+  ],
+  [
+    "One-to-one yoga",
+    "Vinyasa, Yin & restorative",
+    "Somatic yoga & inversions",
+    "Breathwork & sound experiences",
+  ],
+  [
+    "Pregnancy & postpartum care",
+    "Botanical facials",
+    "Feminine self-care rituals",
+    "Herbal education & practitioner training",
+  ],
+  [
+    "DreamWeaver seasonal dance",
+    "Retreats & cacao gatherings",
+    "Reiki training & workshops",
+    "Facilitator education & mentoring",
+  ],
+  [
+    "Equine-assisted experiences",
+    "Edible gardens & plant growing",
+    "Pure water solutions",
+    "Practical support for everyday living",
+  ],
+];
+export const metadata: Metadata = {
+  title: "Care, in all its forms",
+  description:
+    "Explore massage, yoga, energy practices, women’s wellness, community experiences and nature-based wellbeing through The Wellness Collective.",
+  alternates: { canonical: "/offerings" },
+};
+export default function OfferingsPage() {
+  return (
+    <main id="main-content">
+      <div className="page-intro container">
+        <Breadcrumb current="Our offerings" />
+        <div className="page-heading">
+          <h1>
+            Many paths
+            <br />
+            to <em>feeling well.</em>
+          </h1>
+          <p>
+            You might know exactly what you need. Or you might simply know it’s
+            time for a little care. Explore our independent practitioners’
+            offerings and see what speaks to you.
+          </p>
+        </div>
+      </div>
+      <div className="container offerings-list">
+        {categories.map((c, i) => (
+          <section id={c.id} className="offering-row" key={c.id}>
+            <div className="offering-photo">
+              <Image
+                src={pictures[i]}
+                alt={c.name}
+                fill
+                sizes="(max-width: 760px) 90vw, 40vw"
+              />
+            </div>
+            <div className="offering-copy">
+              <h2>{c.name}</h2>
+              <p>{c.description}</p>
+              <ul>
+                {offerings[i].map((o) => (
+                  <li key={o}>{o}</li>
+                ))}
+              </ul>
+              <ButtonLink href={`/practitioners?category=${c.id}`} secondary>
+                Meet the people behind the practice
+              </ButtonLink>
+            </div>
+          </section>
+        ))}
+      </div>
+      <HelpBanner />
+    </main>
+  );
+}

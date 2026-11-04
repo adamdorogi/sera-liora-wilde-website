@@ -1,23 +1,187 @@
 export const treatments = [
- {name:'Remedial massage — focused session',category:'Bodywork',description:'Targeted bodywork with attention to the areas that need it most.',duration:'30 min',price:'$60',id:'JAT5LAQHOJYCO6DPP53IOLIG'},
- {name:'Remedial massage — one hour',category:'Bodywork',description:'Therapeutic bodywork tailored to your individual needs.',duration:'60 min',price:'$120',id:'WD5VVQUIT4BIA3IJDHMTO6OI'},
- {name:'Remedial massage — full body',category:'Bodywork',description:'A longer session with time for a thorough full-body treatment.',duration:'90 min',price:'$180',id:'HF2LGRDJ7ZA4WYQF7UHLU3NN'},
- {name:'Wilde Signature Blend',category:'Bodywork',description:'A personal blend of Lomi Lomi, remedial massage, hot stones and a touch of Reiki.',duration:'105 min',price:'$210',id:'FXGJK5ZU745F7WPLZ6BCAQRP'},
- {name:'Reset massage',category:'Bodywork',description:'A full-body sweep or focused attention on one or two areas, with room to soften and pause.',duration:'45 min',price:'$90',id:'HOM5OESNCB7O2CSZQKPJAF3E'},
- {name:'Relaxation massage',category:'Bodywork',description:'Slow, soothing bodywork and time to switch off from the everyday.',duration:'60 min',price:'$120',id:'6YZXB4I6TDN5MUVRHJT7B2TT'},
- {name:'Lomi Lomi Hawaiian-style massage',category:'Bodywork',description:'Long, flowing strokes with coconut oil. The listed price includes the $10 oil allowance.',duration:'90 min',price:'$190',id:'UQQ54I47K4TRIHJPIIUTAUIC'},
- {name:'Feather Bliss massage',category:'Bodywork',description:'An ultra-light sensory experience with gentle, feather-light touch.',duration:'60 min',price:'$120',id:'D7V2RXZK5RUY3K5GZY57J7KU'},
- {name:'SereniScalp massage',category:'Bodywork',description:'A scalp-focused treatment with nourishing coconut oil. Includes the $10 oil allowance.',duration:'60 min',price:'$130',id:'BEMJJ23G6FHSNLL5QJII3K4A'},
- {name:'Reiki',category:'Energy & Reiki',description:'Gentle energy practice with space for stillness, rest and reconnection.',duration:'40 min',price:'$80',id:'TJ3GYKOV243SFCI2MR37QE66'},
- {name:'Reiki & crystal chakra balancing',category:'Energy & Reiki',description:'A personalised combination of Reiki and crystal work.',duration:'60 min',price:'$120',id:'K3AHEOAYJOIYAS6PBUW7GOFD'},
- {name:'Aromatic Reiki Escape',category:'Energy & Reiki',description:'A sensory combination of Reiki and aromatherapy. Includes the $10 essential-oil allowance.',duration:'90 min',price:'$190',id:'MN4QORV4U5VWIOC2GVGD4N73'},
- {name:'Magnesium bath',category:'Wellness & movement',description:'A quiet soaking experience. The live booking service currently lists a 30-minute appointment at $60.',duration:'30 min booking',price:'$60',id:'WWA7IGGDUW6GR4SZ6M53GTNV'},
- {name:'Yoni steaming',category:'Wellness & movement',description:'A feminine self-care ritual with an organic herb blend. Sera works alongside Angie while completing her training.',duration:'30 min',price:'$80',id:'YPQ6DH7YOBXKLLTS7Q7O3YCF'},
- {name:'Yoga 1:1',category:'Wellness & movement',description:'Personal yoga guidance for your own practice. Private classes can accommodate up to three people; enquire for details.',duration:'60 min',price:'$60',id:'PHRZWCWSGMMVPM7SBUZAPWJE'},
- {name:'First Degree Reiki training',category:'Training & support',description:'Two mornings, 10am–2pm. $150 per day; book both days together.',duration:'2-day course',price:'$150 / day',id:'A27BBAPTRE6TDFK24ZEW5D3D'},
- {name:'Mobile, corporate massage & events',category:'Training & support',description:'Massage at your workplace, gathering or home. Contact Sera for additional hours and day rates.',duration:'2-hour minimum',price:'From $240',id:'RRLAUZOA36UBL5SRG27JSPNN'},
- {name:'Consultancy',category:'Training & support',description:'Practical research, organisation and support to help turn your idea into actionable steps.',duration:'20 min',price:'$40',id:'NEPBTZB3K4RYLLMLQTUPP4SB'},
- {name:'Home organisation',category:'Training & support',description:'Compassionate, practical help creating a more organised home. The original profile lists $120 per hour; confirm your total before booking.',duration:'2-hour minimum',price:'Confirm quote',id:'DYGEMMTVX6PCZ4PPDMBW3SSS'},
- {name:'Add hot stones',category:'Add a little extra',description:'Add the warmth of hot stones to a massage appointment.',duration:'+10 min',price:'+$20',id:'NUZN7E2Q5CRTGQCVJLUKMKW6'},
- {name:'Add Reiki',category:'Add a little extra',description:'Combine your massage with a short Reiki treatment.',duration:'+10 min',price:'+$20',id:'TGXYVTZW7QEEKHJDYLJ7MOFQ'},
+  {
+    name: "Remedial massage — focused session",
+    category: "Bodywork",
+    description:
+      "Targeted bodywork with attention to the areas that need it most.",
+    duration: "30 min",
+    price: "$60",
+    id: "JAT5LAQHOJYCO6DPP53IOLIG",
+  },
+  {
+    name: "Remedial massage — one hour",
+    category: "Bodywork",
+    description: "Therapeutic bodywork tailored to your individual needs.",
+    duration: "60 min",
+    price: "$120",
+    id: "WD5VVQUIT4BIA3IJDHMTO6OI",
+  },
+  {
+    name: "Remedial massage — full body",
+    category: "Bodywork",
+    description:
+      "A longer session with time for a thorough full-body treatment.",
+    duration: "90 min",
+    price: "$180",
+    id: "HF2LGRDJ7ZA4WYQF7UHLU3NN",
+  },
+  {
+    name: "Wilde Signature Blend",
+    category: "Bodywork",
+    description:
+      "A personal blend of Lomi Lomi, remedial massage, hot stones and a touch of Reiki.",
+    duration: "105 min",
+    price: "$210",
+    id: "FXGJK5ZU745F7WPLZ6BCAQRP",
+  },
+  {
+    name: "Reset massage",
+    category: "Bodywork",
+    description:
+      "A full-body sweep or focused attention on one or two areas, with room to soften and pause.",
+    duration: "45 min",
+    price: "$90",
+    id: "HOM5OESNCB7O2CSZQKPJAF3E",
+  },
+  {
+    name: "Relaxation massage",
+    category: "Bodywork",
+    description:
+      "Slow, soothing bodywork and time to switch off from the everyday.",
+    duration: "60 min",
+    price: "$120",
+    id: "6YZXB4I6TDN5MUVRHJT7B2TT",
+  },
+  {
+    name: "Lomi Lomi Hawaiian-style massage",
+    category: "Bodywork",
+    description:
+      "Long, flowing strokes with coconut oil. The listed price includes the $10 oil allowance.",
+    duration: "90 min",
+    price: "$190",
+    id: "UQQ54I47K4TRIHJPIIUTAUIC",
+  },
+  {
+    name: "Feather Bliss massage",
+    category: "Bodywork",
+    description:
+      "An ultra-light sensory experience with gentle, feather-light touch.",
+    duration: "60 min",
+    price: "$120",
+    id: "D7V2RXZK5RUY3K5GZY57J7KU",
+  },
+  {
+    name: "SereniScalp massage",
+    category: "Bodywork",
+    description:
+      "A scalp-focused treatment with nourishing coconut oil. Includes the $10 oil allowance.",
+    duration: "60 min",
+    price: "$130",
+    id: "BEMJJ23G6FHSNLL5QJII3K4A",
+  },
+  {
+    name: "Reiki",
+    category: "Energy & Reiki",
+    description:
+      "Gentle energy practice with space for stillness, rest and reconnection.",
+    duration: "40 min",
+    price: "$80",
+    id: "TJ3GYKOV243SFCI2MR37QE66",
+  },
+  {
+    name: "Reiki & crystal chakra balancing",
+    category: "Energy & Reiki",
+    description: "A personalised combination of Reiki and crystal work.",
+    duration: "60 min",
+    price: "$120",
+    id: "K3AHEOAYJOIYAS6PBUW7GOFD",
+  },
+  {
+    name: "Aromatic Reiki Escape",
+    category: "Energy & Reiki",
+    description:
+      "A sensory combination of Reiki and aromatherapy. Includes the $10 essential-oil allowance.",
+    duration: "90 min",
+    price: "$190",
+    id: "MN4QORV4U5VWIOC2GVGD4N73",
+  },
+  {
+    name: "Magnesium bath",
+    category: "Wellness & movement",
+    description:
+      "A quiet soaking experience. The live booking service currently lists a 30-minute appointment at $60.",
+    duration: "30 min booking",
+    price: "$60",
+    id: "WWA7IGGDUW6GR4SZ6M53GTNV",
+  },
+  {
+    name: "Yoni steaming",
+    category: "Wellness & movement",
+    description:
+      "A feminine self-care ritual with an organic herb blend. Sera works alongside Angie while completing her training.",
+    duration: "30 min",
+    price: "$80",
+    id: "YPQ6DH7YOBXKLLTS7Q7O3YCF",
+  },
+  {
+    name: "Yoga 1:1",
+    category: "Wellness & movement",
+    description:
+      "Personal yoga guidance for your own practice. Private classes can accommodate up to three people; enquire for details.",
+    duration: "60 min",
+    price: "$60",
+    id: "PHRZWCWSGMMVPM7SBUZAPWJE",
+  },
+  {
+    name: "First Degree Reiki training",
+    category: "Training & support",
+    description:
+      "Two mornings, 10am–2pm. $150 per day; book both days together.",
+    duration: "2-day course",
+    price: "$150 / day",
+    id: "A27BBAPTRE6TDFK24ZEW5D3D",
+  },
+  {
+    name: "Mobile, corporate massage & events",
+    category: "Training & support",
+    description:
+      "Massage at your workplace, gathering or home. Contact Sera for additional hours and day rates.",
+    duration: "2-hour minimum",
+    price: "From $240",
+    id: "RRLAUZOA36UBL5SRG27JSPNN",
+  },
+  {
+    name: "Consultancy",
+    category: "Training & support",
+    description:
+      "Practical research, organisation and support to help turn your idea into actionable steps.",
+    duration: "20 min",
+    price: "$40",
+    id: "NEPBTZB3K4RYLLMLQTUPP4SB",
+  },
+  {
+    name: "Home organisation",
+    category: "Training & support",
+    description:
+      "Compassionate, practical help creating a more organised home. The original profile lists $120 per hour; confirm your total before booking.",
+    duration: "2-hour minimum",
+    price: "Confirm quote",
+    id: "DYGEMMTVX6PCZ4PPDMBW3SSS",
+  },
+  {
+    name: "Add hot stones",
+    category: "Add a little extra",
+    description: "Add the warmth of hot stones to a massage appointment.",
+    duration: "+10 min",
+    price: "+$20",
+    id: "NUZN7E2Q5CRTGQCVJLUKMKW6",
+  },
+  {
+    name: "Add Reiki",
+    category: "Add a little extra",
+    description: "Combine your massage with a short Reiki treatment.",
+    duration: "+10 min",
+    price: "+$20",
+    id: "TGXYVTZW7QEEKHJDYLJ7MOFQ",
+  },
 ];

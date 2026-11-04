@@ -1,6 +1,64 @@
-'use client';
-import { useState } from 'react';
-import { ArrowUpRight } from 'lucide-react';
-import { treatments } from '@/lib/services';
-import { business } from '@/lib/business';
-export function Treatments(){const [filter,setFilter]=useState('All treatments');const categories=['All treatments',...new Set(treatments.map(t=>t.category))];return <><div className="filter-list treatment-filters" aria-label="Filter treatments" role="group">{categories.map(c=><button key={c} type="button" onClick={()=>setFilter(c)} aria-pressed={filter===c}>{c}</button>)}</div><p className="result-count" role="status">{treatments.filter(t=>filter==='All treatments'||t.category===filter).length} treatments & offerings · Prices in AUD</p><div className="treatment-list">{treatments.filter(t=>filter==='All treatments'||t.category===filter).map(t=><article className="treatment-row" key={t.id}><div><h2>{t.name}</h2><p>{t.description}</p></div><div className="treatment-time">{t.duration}</div><div className="treatment-price">{t.price}</div><a href={`${business.booking}/${t.id}`} target="_blank" rel="noopener noreferrer" className="treatment-book" aria-label={`Book ${t.name} with Sera (opens Square)`}><span>Book</span><ArrowUpRight size={22}/></a></article>)}</div></>}
+"use client";
+import { useState } from "react";
+import { ArrowUpRight } from "lucide-react";
+import { treatments } from "@/lib/services";
+import { business } from "@/lib/business";
+export function Treatments() {
+  const [filter, setFilter] = useState("All treatments");
+  const categories = [
+    "All treatments",
+    ...new Set(treatments.map((t) => t.category)),
+  ];
+  return (
+    <>
+      <div
+        className="filter-list treatment-filters"
+        aria-label="Filter treatments"
+        role="group"
+      >
+        {categories.map((c) => (
+          <button
+            key={c}
+            type="button"
+            onClick={() => setFilter(c)}
+            aria-pressed={filter === c}
+          >
+            {c}
+          </button>
+        ))}
+      </div>
+      <p className="result-count" role="status">
+        {
+          treatments.filter(
+            (t) => filter === "All treatments" || t.category === filter,
+          ).length
+        }{" "}
+        treatments & offerings · Prices in AUD
+      </p>
+      <div className="treatment-list">
+        {treatments
+          .filter((t) => filter === "All treatments" || t.category === filter)
+          .map((t) => (
+            <article className="treatment-row" key={t.id}>
+              <div>
+                <h2>{t.name}</h2>
+                <p>{t.description}</p>
+              </div>
+              <div className="treatment-time">{t.duration}</div>
+              <div className="treatment-price">{t.price}</div>
+              <a
+                href={`${business.booking}/${t.id}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="treatment-book"
+                aria-label={`Book ${t.name} with Sera (opens Square)`}
+              >
+                <span>Book</span>
+                <ArrowUpRight size={22} />
+              </a>
+            </article>
+          ))}
+      </div>
+    </>
+  );
+}

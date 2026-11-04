@@ -2,7 +2,8 @@
 .next
 node_modules
 .impeccable
-scripts
+scripts/*
+!scripts/prepare-deployment.mjs
 README.md
 PRODUCT.md
 DESIGN.md

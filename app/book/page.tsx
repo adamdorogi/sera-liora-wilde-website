@@ -1,7 +1,93 @@
-import Image from 'next/image';
-import type { Metadata } from 'next';
-import { Breadcrumb, ButtonLink, Rating } from '@/components/ui';
-import { Treatments } from '@/components/treatments';
-import { business } from '@/lib/business';
-export const metadata:Metadata={title:'Massage & more with Sera · Treatments & booking',description:'Explore Sera’s massage, Reiki, yoga, training and holistic wellbeing services. View durations and prices, then book directly through Square.',alternates:{canonical:'/book'}};
-export default function BookPage(){return <main id="main-content"><div className="container"><Breadcrumb current="Book with Sera"/><section className="booking-hero"><div><h1>A little time.<br/><em>Just for you.</em></h1><p className="lead">Massage, Reiki and thoughtful care with Sera Liora Wilde. Choose what feels right, then find a time in the live booking calendar.</p><div className="inline-actions"><ButtonLink href={business.booking}>See all live availability</ButtonLink><ButtonLink href="/wildemassage" secondary>Meet Sera</ButtonLink></div><Rating compact/></div><div className="booking-photo"><Image src="/images/e2552922965e.jpeg" alt="Hot stone massage and therapeutic bodywork" fill priority sizes="(max-width:760px) 90vw, 40vw"/></div></section><section className="booking-menu"><div className="menu-intro"><h2>What does your body need today?</h2><p>At our Birkdale space, by appointment. Add-ons are booked alongside a main treatment. Live availability, final prices and terms are confirmed in Square.</p></div><Treatments/></section><section className="booking-guidance"><div><h2>Not sure which to choose?</h2><p>Sera’s treatments can be adapted to your needs on the day. Call or send a message for help finding a starting point.</p><ButtonLink href={business.phoneHref}>Call {business.phone}</ButtonLink></div><div><h3>Booking someone else?</h3><p>Each practitioner manages their own appointments. Visit their profile for the right contact and booking details.</p><ButtonLink href="/practitioners" secondary>Find your practitioner</ButtonLink><h3>A thoughtful gift.</h3><p>Give someone time to slow down with a Square eGift card for Sera’s practice.</p><ButtonLink href="/s/gift-cards" secondary>Explore gift cards</ButtonLink></div></section></div></main>}
+import Image from "next/image";
+import type { Metadata } from "next";
+import { Breadcrumb, ButtonLink, Rating } from "@/components/ui";
+import { Treatments } from "@/components/treatments";
+import { business } from "@/lib/business";
+export const metadata: Metadata = {
+  title: "Massage & more with Sera · Treatments & booking",
+  description:
+    "Explore Sera’s massage, Reiki, yoga, training and holistic wellbeing services. View durations and prices, then book directly through Square.",
+  alternates: { canonical: "/book" },
+};
+export default function BookPage() {
+  return (
+    <main id="main-content">
+      <div className="container">
+        <Breadcrumb current="Book with Sera" />
+        <section className="booking-hero">
+          <div>
+            <h1>
+              A little time.
+              <br />
+              <em>Just for you.</em>
+            </h1>
+            <p className="lead">
+              Massage, Reiki and thoughtful care with Sera Liora Wilde. Choose
+              what feels right, then find a time in the live booking calendar.
+            </p>
+            <div className="inline-actions">
+              <ButtonLink href={business.booking}>
+                See all live availability
+              </ButtonLink>
+              <ButtonLink href="/wildemassage" secondary>
+                Meet Sera
+              </ButtonLink>
+            </div>
+            <Rating compact />
+          </div>
+          <div className="booking-photo">
+            <Image
+              src="/images/e2552922965e.jpeg"
+              alt="Hot stone massage and therapeutic bodywork"
+              fill
+              loading="eager"
+              fetchPriority="high"
+              sizes="(max-width:760px) 90vw, 40vw"
+            />
+          </div>
+        </section>
+        <section className="booking-menu">
+          <div className="menu-intro">
+            <h2>What does your body need today?</h2>
+            <p>
+              At our Birkdale space, by appointment. Add-ons are booked
+              alongside a main treatment. Live availability, final prices and
+              terms are confirmed in Square.
+            </p>
+          </div>
+          <Treatments />
+        </section>
+        <section className="booking-guidance">
+          <div>
+            <h2>Not sure which to choose?</h2>
+            <p>
+              Sera’s treatments can be adapted to your needs on the day. Call or
+              send a message for help finding a starting point.
+            </p>
+            <ButtonLink href={business.phoneHref}>
+              Call {business.phone}
+            </ButtonLink>
+          </div>
+          <div>
+            <h3>Booking someone else?</h3>
+            <p>
+              Each practitioner manages their own appointments. Visit their
+              profile for the right contact and booking details.
+            </p>
+            <ButtonLink href="/practitioners" secondary>
+              Find your practitioner
+            </ButtonLink>
+            <h3>A thoughtful gift.</h3>
+            <p>
+              Give someone time to slow down with a Square eGift card for Sera’s
+              practice.
+            </p>
+            <ButtonLink href="/s/gift-cards" secondary>
+              Explore gift cards
+            </ButtonLink>
+          </div>
+        </section>
+      </div>
+    </main>
+  );
+}
