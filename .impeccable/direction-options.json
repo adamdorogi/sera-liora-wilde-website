@@ -1,0 +1,105 @@
+{
+  "title": "A new home for The Wellness Collective",
+  "question": "Choose the visual direction. Each keeps every practitioner and the existing booking services.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "The Sunroom",
+      "kicker": "THE ROLL",
+      "lineage": "Light-filled Queensland garden rooms",
+      "thesis": "A warm, human welcome framed by deep green and real practitioner photography.",
+      "palette": [
+        "#203d35",
+        "#edf1df",
+        "#e6b9ab",
+        "#f8f8f2"
+      ],
+      "materials": [
+        "daylight photography",
+        "generous botanical space"
+      ],
+      "viewport": "A large welcoming headline beside a garden-window photograph, with a direct path to find a practitioner.",
+      "risk": "Needs strong photo selection to feel personal rather than like a generic retreat.",
+      "raised": [
+        {
+          "from": "Portrait studio discipline",
+          "raise": "Every practitioner receives an individual, equally considered portrait."
+        },
+        {
+          "from": "Instrument clarity",
+          "raise": "Filters and booking links keep their meaning and state explicit."
+        }
+      ],
+      "comp": ".impeccable/mocks/decision/assigned.png"
+    },
+    {
+      "id": "model-pick",
+      "label": "Coastal Companion",
+      "kicker": "IMPECCABLE\u2019S PICK",
+      "lineage": "Bayside visitor guides",
+      "thesis": "An open, blue-led guide to people and care close to home.",
+      "palette": [
+        "#172d57",
+        "#e8eef0",
+        "#c3a15e",
+        "#ffffff"
+      ],
+      "materials": [
+        "clear coastal light",
+        "portrait photography"
+      ],
+      "viewport": "A full-width human photograph with a compact service guide and direct booking.",
+      "risk": "More familiar, and closer to where many wellness redesigns land.",
+      "comp": ".impeccable/mocks/decision/pick.png"
+    },
+    {
+      "id": "fluid",
+      "label": "A Moment of Stillness",
+      "verdict": "competitive",
+      "lineage": "Suminagashi ink basin",
+      "thesis": "An indigo fluid surface makes the transition from daily noise to calm tangible.",
+      "palette": [
+        "#233454",
+        "#ecefed",
+        "#6e818d"
+      ],
+      "materials": [
+        "indigo fluid ink",
+        "still white margins"
+      ],
+      "viewport": "A quiet fluid basin anchors the welcome while practitioner discovery sits in still margins.",
+      "case": "Strong calm identification; less immediate clarity about people and services.",
+      "risk": "The interactive material could distract from booking.",
+      "hero": "https://impeccable.style/worlds/cards/medium-native-fluid-ink-basin-hero.webp",
+      "comp": ".impeccable/mocks/decision/fluid.png"
+    }
+  ],
+  "reroll": {
+    "registers": [
+      "safer",
+      "bolder"
+    ]
+  },
+  "steer": true,
+  "canon": true,
+  "canonCard": {
+    "label": "Classic wellness brochure",
+    "thesis": "Familiar, calm sections with simple services and a booking button.",
+    "palette": [
+      "#f7f4ee",
+      "#333b32",
+      "#8a9b81"
+    ],
+    "materials": [
+      "neutral surfaces",
+      "soft photography"
+    ],
+    "viewport": "A conventional image hero followed by service cards.",
+    "risk": "Less distinctive than the other directions.",
+    "comp": ".impeccable/mocks/decision/canon.png"
+  },
+  "buildPath": {
+    "value": "comp",
+    "toggle": true
+  }
+}

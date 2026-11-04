@@ -1,0 +1,315 @@
+{
+  "regions": [
+    {
+      "id": "announcement",
+      "kind": "chrome",
+      "box": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 1.0,
+        "h": 0.038752362948960305
+      },
+      "note": "solid deep green announcement band",
+      "grid": "A0:J0",
+      "snap": false
+    },
+    {
+      "id": "announcement-text",
+      "kind": "text",
+      "box": {
+        "x": 0.3496973772696705,
+        "y": 0.00945179584120983,
+        "w": 0.3093476798924008,
+        "h": 0.020793950850661626
+      },
+      "note": "single line of white sans text",
+      "grid": "D0:G0",
+      "snap": false
+    },
+    {
+      "id": "brand",
+      "kind": "text",
+      "box": {
+        "x": 0.04034969737726967,
+        "y": 0.057655954631379965,
+        "w": 0.28312037659717554,
+        "h": 0.05671077504725898
+      },
+      "note": "small sunrise wave icon next to Sera Liora Wilde and collective name",
+      "grid": "A0:D1",
+      "snap": false
+    },
+    {
+      "id": "navigation",
+      "kind": "control",
+      "box": {
+        "x": 0.49428379287155344,
+        "y": 0.0661625708884688,
+        "w": 0.4761264290517821,
+        "h": 0.04253308128544423
+      },
+      "note": "four navigation links and pill booking button",
+      "grid": "E0:J1",
+      "snap": false
+    },
+    {
+      "id": "hero-context",
+      "kind": "text",
+      "box": {
+        "x": 0.04707464694014795,
+        "y": 0.1833648393194707,
+        "w": 0.3496973772696705,
+        "h": 0.01606805293005671
+      },
+      "note": "Birkdale holistic wellbeing location label",
+      "grid": "A1:D1",
+      "snap": false
+    },
+    {
+      "id": "headline",
+      "kind": "text",
+      "box": {
+        "x": 0.04236718224613315,
+        "y": 0.21833648393194707,
+        "w": 0.3160726294552791,
+        "h": 0.15784499054820417
+      },
+      "note": "Come back to yourself in large deep green serif, two lines",
+      "grid": "A2:D3",
+      "snap": false
+    },
+    {
+      "id": "hero-copy",
+      "kind": "text",
+      "box": {
+        "x": 0.04572965702757229,
+        "y": 0.41398865784499056,
+        "w": 0.38197713517148624,
+        "h": 0.06805293005671077
+      },
+      "note": "Three lines about thoughtful care and independent practitioners",
+      "grid": "A4:E4",
+      "snap": false
+    },
+    {
+      "id": "hero-primary",
+      "kind": "control",
+      "box": {
+        "x": 0.03967720242098184,
+        "y": 0.5141776937618148,
+        "w": 0.19704102219233355,
+        "h": 0.052930056710775046
+      },
+      "note": "dark green pill Find your practitioner with arrow",
+      "grid": "A5:C5",
+      "snap": false
+    },
+    {
+      "id": "hero-secondary",
+      "kind": "control",
+      "box": {
+        "x": 0.2562205783456624,
+        "y": 0.5255198487712666,
+        "w": 0.14324142568930734,
+        "h": 0.02835538752362949
+      },
+      "note": "Explore our offerings text and arrow",
+      "grid": "C5:D5",
+      "snap": false
+    },
+    {
+      "id": "hero-rating",
+      "kind": "text",
+      "box": {
+        "x": 0.04640215198386012,
+        "y": 0.5954631379962193,
+        "w": 0.38063214525891054,
+        "h": 0.01890359168241966
+      },
+      "note": "rose stars then 5.0 on Google and 14 community reviews",
+      "grid": "A5:E6",
+      "snap": false
+    },
+    {
+      "id": "massage-photo",
+      "kind": "image",
+      "box": {
+        "x": 0.43846671149966376,
+        "y": 0.14177693761814744,
+        "w": 0.5178211163416274,
+        "h": 0.48582230623818523
+      },
+      "bleed": true,
+      "note": "actual business scalp massage photograph, arched upper edge with subtle rounded lower corners",
+      "plate": "public/images/616a7c7e5410.png",
+      "grid": "E1:J6",
+      "snap": false
+    },
+    {
+      "id": "care-stamp",
+      "kind": "chrome",
+      "box": {
+        "x": 0.8567585743106927,
+        "y": 0.14555765595463138,
+        "w": 0.10692669804976462,
+        "h": 0.15217391304347827
+      },
+      "note": "soft rose circle with centered dark green care message",
+      "grid": "I1:J2",
+      "snap": false
+    },
+    {
+      "id": "photo-caption",
+      "kind": "text",
+      "box": {
+        "x": 0.45729657027572296,
+        "y": 0.5765595463137996,
+        "w": 0.17821116341627438,
+        "h": 0.0330812854442344
+      },
+      "note": "small white wave icon and serif A softer place to land",
+      "grid": "E5:G6",
+      "snap": false
+    },
+    {
+      "id": "category-strip",
+      "kind": "chrome",
+      "box": {
+        "x": 0.0,
+        "y": 0.6531190926275993,
+        "w": 1.0,
+        "h": 0.07655954631379962
+      },
+      "note": "pale celery horizontal band for four offering categories",
+      "grid": "A6:J7",
+      "snap": false
+    },
+    {
+      "id": "category-links",
+      "kind": "control",
+      "box": {
+        "x": 0.05178211163416274,
+        "y": 0.6701323251417769,
+        "w": 0.9058507061197041,
+        "h": 0.04253308128544423
+      },
+      "note": "four evenly spaced offering links with small line icons",
+      "grid": "A6:J7",
+      "snap": false
+    },
+    {
+      "id": "collective-title",
+      "kind": "text",
+      "box": {
+        "x": 0.04236718224613315,
+        "y": 0.7986767485822306,
+        "w": 0.4371217215870881,
+        "h": 0.04253308128544423
+      },
+      "note": "Your people. Your kind of care serif title",
+      "grid": "A7:E8",
+      "snap": false
+    },
+    {
+      "id": "collective-copy",
+      "kind": "text",
+      "box": {
+        "x": 0.558843308675185,
+        "y": 0.7939508506616257,
+        "w": 0.3765971755211836,
+        "h": 0.045368620037807186
+      },
+      "note": "two lines about independent practitioners and shared values",
+      "grid": "F7:J8",
+      "snap": false
+    },
+    {
+      "id": "practitioner-photo-0",
+      "kind": "image",
+      "grid": "A8:C9",
+      "box": {
+        "x": 0.03765971755211836,
+        "y": 0.8809073724007561,
+        "w": 0.22394082044384667,
+        "h": 0.11909262759924386
+      },
+      "snap": false,
+      "bleed": true,
+      "note": "practitioner image preview; approved replacement of illustrative person with original business photography",
+      "plate": "public/images/616a7c7e5410.png"
+    },
+    {
+      "id": "practitioner-photo-1",
+      "kind": "image",
+      "grid": "C8:E9",
+      "box": {
+        "x": 0.2730329522528581,
+        "y": 0.8809073724007561,
+        "w": 0.22326832548755884,
+        "h": 0.11909262759924386
+      },
+      "snap": false,
+      "bleed": true,
+      "note": "practitioner image preview; approved replacement of illustrative person with original business photography",
+      "plate": "public/images/179f1f0ed60a.png"
+    },
+    {
+      "id": "practitioner-photo-2",
+      "kind": "image",
+      "grid": "F8:H9",
+      "box": {
+        "x": 0.5063887020847344,
+        "y": 0.8809073724007561,
+        "w": 0.22326832548755884,
+        "h": 0.11909262759924386
+      },
+      "snap": false,
+      "bleed": true,
+      "note": "practitioner image preview; approved replacement of illustrative person with original business photography",
+      "plate": "public/images/8614391be94e.png"
+    },
+    {
+      "id": "practitioner-photo-3",
+      "kind": "image",
+      "grid": "H8:J9",
+      "box": {
+        "x": 0.7404169468728985,
+        "y": 0.8809073724007561,
+        "w": 0.22394082044384667,
+        "h": 0.11909262759924386
+      },
+      "snap": false,
+      "bleed": true,
+      "note": "practitioner image preview; approved replacement of illustrative person with original business photography",
+      "plate": "public/images/019077963868.png"
+    },
+    {
+      "id": "headline-emphasis",
+      "kind": "chrome",
+      "grid": "B3:C3",
+      "box": {
+        "x": 0.13315400134498992,
+        "y": 0.3827977315689981,
+        "w": 0.16476126429051782,
+        "h": 0.017958412098298678
+      },
+      "snap": false,
+      "note": "thin soft rose curved emphasis under yourself"
+    },
+    {
+      "id": "collective-context",
+      "kind": "text",
+      "grid": "A7:D7",
+      "box": {
+        "x": 0.04303967720242098,
+        "y": 0.7684310018903592,
+        "w": 0.26227303295225285,
+        "h": 0.01606805293005671
+      },
+      "snap": false,
+      "note": "small text many paths one collective"
+    }
+  ],
+  "allowUncovered": true,
+  "coverageNote": "All visible elements are individually named; explicit tight boxes leave mostly empty margins within the listed 10x10 grid cells. Added the small collective context line and headline emphasis rule."
+}
