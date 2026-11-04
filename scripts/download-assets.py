@@ -4,6 +4,7 @@ jobs={}
 for p in (root/'content').glob('*.json'):
  if p.stem=='site-meta':continue
  d=json.load(open(p))
+ if not isinstance(d,dict) or 'images' not in d:continue
  for i in d['images']:
   src=i['source'];ext=pathlib.Path(src.split('?')[0]).suffix.lower()
   if ext not in ['.png','.jpg','.jpeg','.webp']:ext='.jpg'

@@ -1,0 +1,10 @@
+.git
+.next
+node_modules
+.impeccable
+scripts
+README.md
+PRODUCT.md
+DESIGN.md
+AGENTS.md
+*.tsbuildinfo
