@@ -1,0 +1,382 @@
+{
+  "slug": "dreamweaver-community-dance",
+  "name": "DreamWeaver CommUnity Dance",
+  "title": "DreamWeaver CommUnity Dance",
+  "source": "https://www.seraliorawilde.com.au/dreamweaver-community-dance",
+  "texts": [
+    {
+      "text": "Created by Seraphim Bass\n\nDream Manifestation • Dance • Connection • Community\n\nDreamWeaver CommUnity Dance is a family friendly, seasonal community dance experience created by Seraphim Bass. It is held every three months as the seasons change.\n\nAt the heart of DreamWeaver is dream manifestation — creating intentional space to explore what is being called into life, to give dreams form, energy and attention, and to connect with the possibility of what could be.\n\nDance is the catalyst.\n\nThrough free-form movement and carefully curated music, participants are invited to move their dreams from something imagined in the mind into something that can be felt and embodied in the body. \n\nThe dancing helps cultivate the energy, emotion, freedom and connection behind those dreams.\n\nEverything else is the sprinkles on top — enriching the experience and creating opportunities for connection, creativity, play, nourishment and celebration.\n\nA DreamWeaver gathering may include:\n\n🎶 Conscious & free-form dance with curated DJs\n✨ Dream manifestation & intention setting\n🧘 Yoga and embodied movement\n🍫 Cacao\n🥁 Community drumming circles\n🤲 Zen Thai massage\n🔥 Fire twirling & performance\n👗 Free community clothes swaps\n🌿 Artisan stalls & local offerings\n🏊 Swimming in the lake\n🌅 Spectacular sunsets over Tingalpa Reservoir\n🎨 Creative and community experiences\n🌙 Outdoor dancing and celebration under the evening sky\n\nDreamWeaver is designed to bring people together in a space where movement becomes a pathway to possibility — where dreams can be explored, expressed and embodied alongside a diverse and welcoming community. \n\nAn experience where movement is medicine. Where people reconnect with themselves. A home-coming.\n\nIt is suitable for people of all ages and backgrounds, whether they come to dance deeply, explore something new, connect with others, experience the wellness offerings, swim in the lake, watch the sunset, or simply spend an afternoon immersed in music, nature and community. \n\n🌸 The next offering is...\nDREAMWEAVER — SPRING EDITION\n📅 Saturday 14 November 2026\n📍 Allambee Sanctuary, Capalaba\n\nThe Spring Edition brings together the core DreamWeaver experience of dream manifestation, dance and community, alongside yoga, cacao, drumming, Zen Thai massage, fire twirling, artisan stalls, a free clothes swap, lake swimming and spectacular sunset views across Tingalpa Reservoir. \n\nDreamWeaver is primarily a Drug and Alcohol FREE event, with the occasional BYO beve happening here and there. It is a LEAVE NO TRACE, GLASS FREE event, where people are encouraged to go barefoot and reconnect with the earth.\n\n🎟️ Tickets: https://tinyurl.com/dreamweaverspring\n\nUSE Special 10% DISCOUNT CODE just for The Wellness Collective tribe: \"WELL\"\n\nJoin the DreamWeaver Tribe here for the most up to date announcements, photo drops, and inspiring info about dance: https://www.facebook.com/share/g/1GWpEK3T3S/\n\nDreamWeaver takes place once every season, creating a recurring space throughout the year to pause, dream, move, connect and consciously cultivate what comes next. 🌸\n\nDream it. Dance it. Weave it.",
+      "ops": [
+        {
+          "insert": "Created by Seraphim Bass",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Dream Manifestation • Dance • Connection • Community",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\nDreamWeaver CommUnity Dance is a family friendly, "
+        },
+        {
+          "insert": "seasonal community dance experience created by Seraphim Bass. ",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "It is held every three months as the seasons change."
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "\nAt the heart of DreamWeaver is "
+        },
+        {
+          "insert": "dream manifestation",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " — creating intentional space to explore what is being called into life, to give dreams form, energy and attention, and to connect with the possibility of what could be.\n\n"
+        },
+        {
+          "insert": "Dance is the catalyst.",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\nThrough free-form movement and carefully curated music, participants are invited to move their dreams from something imagined in the mind into something that can be "
+        },
+        {
+          "insert": "felt and embodied in the body",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ". \n\nThe dancing helps cultivate the energy, emotion, freedom and connection behind those dreams.\n\nEverything else is the "
+        },
+        {
+          "insert": "sprinkles on top",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " — enriching the experience and creating opportunities for connection, creativity, play, nourishment and celebration.\n\nA DreamWeaver gathering may include:"
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "🎶 "
+        },
+        {
+          "insert": "Conscious & free-form dance",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " with curated DJs\n✨ "
+        },
+        {
+          "insert": "Dream manifestation & intention setting",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🧘 "
+        },
+        {
+          "insert": "Yoga and embodied movement",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🍫 "
+        },
+        {
+          "insert": "Cacao",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🥁 "
+        },
+        {
+          "insert": "Community drumming circles",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🤲 "
+        },
+        {
+          "insert": "Zen Thai massage",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🔥 "
+        },
+        {
+          "insert": "Fire twirling & performance",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n👗 "
+        },
+        {
+          "insert": "Free community clothes swaps",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🌿 "
+        },
+        {
+          "insert": "Artisan stalls & local offerings",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🏊 "
+        },
+        {
+          "insert": "Swimming in the lake",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🌅 "
+        },
+        {
+          "insert": "Spectacular sunsets over Tingalpa Reservoir",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🎨 "
+        },
+        {
+          "insert": "Creative and community experiences",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n🌙 "
+        },
+        {
+          "insert": "Outdoor dancing and celebration under the evening sky",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\nDreamWeaver is designed to bring people together in a space where "
+        },
+        {
+          "insert": "movement becomes a pathway to possibility",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " — where dreams can be explored, expressed and embodied alongside a diverse and welcoming community. \n\nAn experience where movement is medicine. Where people reconnect with themselves. A home-coming.\n\nIt is suitable for people of all ages and backgrounds, whether they come to dance deeply, explore something new, connect with others, experience the wellness offerings, swim in the lake, watch the sunset, or simply spend an afternoon immersed in "
+        },
+        {
+          "insert": "music, nature and community. ",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "\n🌸 The next offering is...\n"
+        },
+        {
+          "insert": "DREAMWEAVER — SPRING EDITION",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n📅 "
+        },
+        {
+          "insert": "Saturday 14 November 2026",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n📍 "
+        },
+        {
+          "insert": "Allambee Sanctuary, Capalaba",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\nThe Spring Edition brings together the core DreamWeaver experience of "
+        },
+        {
+          "insert": "dream manifestation, dance and community",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ", alongside yoga, cacao, drumming, Zen Thai massage, fire twirling, artisan stalls, a free clothes swap, lake swimming and "
+        },
+        {
+          "insert": "spectacular sunset views across Tingalpa Reservoir",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ". "
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "DreamWeaver is primarily a Drug and Alcohol FREE event, with the occasional BYO beve happening here and there. It is a LEAVE NO TRACE, GLASS FREE event, where people are encouraged to go barefoot and reconnect with the earth."
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "\n🎟️ "
+        },
+        {
+          "insert": "Tickets:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " "
+        },
+        {
+          "insert": "https://tinyurl.com/dreamweaverspring",
+          "attributes": {
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "https://tinyurl.com/dreamweaverspring"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\nUSE Special 10% DISCOUNT CODE just for The Wellness Collective tribe: \""
+        },
+        {
+          "insert": "WELL",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\"\n\nJoin the DreamWeaver Tribe here for the most up to date announcements, photo drops, and inspiring info about dance: "
+        },
+        {
+          "insert": "https://www.facebook.com/share/g/1GWpEK3T3S/",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "DreamWeaver takes place once every season",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ", creating a recurring space throughout the year to pause, dream, move, connect and consciously cultivate what comes next. 🌸\n\n"
+        },
+        {
+          "insert": "Dream it. Dance it. Weave it.",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        }
+      ]
+    },
+    {
+      "text": "🌸 DreamWeaver CommUnity Dance",
+      "ops": [
+        {
+          "insert": "🌸 DreamWeaver CommUnity Dance"
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Dream%20Weaver%20Background_1792247030.jpg",
+      "alt": "Dream Weaver Background.jpg",
+      "width": 1456,
+      "height": 816,
+      "local": "/images/b0e02f7656cc.jpg"
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,344 @@
+{
+  "pages": [
+    {
+      "id": "59ec9b10-d6c0-11f1-9ffd-05ea43722b17",
+      "name": "Jenny Oceans - Cacao & Breathwork",
+      "route": "jennyoceans",
+      "title": "Jenny Oceans - Cacao & Breathwork",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f45c60-d6c0-11f1-b2c0-c92b1a630469",
+      "name": "Sera Liora Wilde ✨ Massage & Reiki",
+      "route": "wildemassage",
+      "title": "Sera Liora Wilde ✨",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f31a60-d6c0-11f1-8f82-59b7710b4730",
+      "name": "The Pure Water Specialists",
+      "route": "thepurewaterspecialists",
+      "title": "The Pure Water Specialists",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59ed0270-d6c0-11f1-89b3-7113654e07fe",
+      "name": "Susan Pienaar | Wellness with Horses & Humans",
+      "route": "susanpienaarwwhh",
+      "title": "Susan Pienaar | Wellness with Horses & Humans",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59edbfb0-d6c0-11f1-ab67-5d3d77e4321b",
+      "name": "Sonja - Dopamine and Dandelions",
+      "route": "sonja",
+      "title": "Sonja - Dopamine and Dandelions",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f09cd0-d6c0-11f1-bafe-a76fe2bbfc86",
+      "name": "Samadhi Hart - Bioresonance Therapy",
+      "route": "samadhihart",
+      "title": "Samadhi Hart - Bioresonance Therapy",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f1e650-d6c0-11f1-bc06-abd6cfa3faa7",
+      "name": "Lily - Yoga / Lomi / Sound",
+      "route": "lily",
+      "title": "Lily ",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f40340-d6c0-11f1-9d2f-d380b16111d2",
+      "name": "José Toussaint Kinesiologist",
+      "route": "josetoussaint",
+      "title": "José Toussaint ",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f51420-d6c0-11f1-8920-6f9bf385460c",
+      "name": "Jess - Wildbloom Holistic Care",
+      "route": "jesswildbloom",
+      "title": "Jess - Green Magick Alchemy.Co",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f2a940-d6c0-11f1-bfd5-ff8bca1e0410",
+      "name": "Adele Watson - Holistic Heart & Soul",
+      "route": "adelewatson",
+      "title": "Adele Watson",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f144d0-d6c0-11f1-a44d-85ecb3a7b7eb",
+      "name": "Jen Hamilton - Sanctuary Of Self",
+      "route": "jenhamilton",
+      "title": "Jen Hamilton - Tantra",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59ef9fa0-d6c0-11f1-ab56-63fca08f96b0",
+      "name": "Jayanti - Energy Alchemist",
+      "route": "jayantijay",
+      "title": "Jayanti - Energy Alchemist",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f56d00-d6c0-11f1-a240-35029f89b912",
+      "name": "Home",
+      "route": "home",
+      "title": "Home",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59ed6580-d6c0-11f1-bf7f-3fec1826b2e4",
+      "name": "DreamWeaver CommUnity Dance",
+      "route": "dreamweaver-community-dance",
+      "title": "DreamWeaver CommUnity Dance",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59ee1250-d6c0-11f1-9bb7-d99480b8f6a9",
+      "name": "Cassandra Bennet Yoga",
+      "route": "cassyoga",
+      "title": "Cassandra Bennet Yoga",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f25990-d6c0-11f1-a3c4-b53623334b28",
+      "name": "Cherie Wright - Bayside Ka Huna Massage",
+      "route": "baysidekahunamassage",
+      "title": "Cherie Wright - Bayside Ka Huna Massage",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f02eb0-d6c0-11f1-82a0-bfcc4662d268",
+      "name": "Anna - PSYCH-K®",
+      "route": "annapsychk",
+      "title": "Anne - Psych K",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    },
+    {
+      "id": "59f383b0-d6c0-11f1-b4c5-dd76ac1ff4cb",
+      "name": "Angie - Yoni Steam Australia ",
+      "route": "angieyonisteamaustralia",
+      "title": "Angie - Yoni Steam Australia ",
+      "featureType": null,
+      "description": "",
+      "hidden": false
+    }
+  ],
+  "site": {
+    "id": "7e68bf80-0c8f-11f0-a797-d18d89ca0d05",
+    "properties": {
+      "classicSiteID": "782810878450232473",
+      "catalogSiteId": "782810878450232473",
+      "selectedVertical": "other",
+      "verticalV4": "salon-barbershop",
+      "language": "en_AU",
+      "squareMerchantId": "ML42ER3KH4QQT",
+      "siteCatalogVersion": "06a778b7-4622-49ff-9619-471c8a94b71f",
+      "appSiteCartNativePayControlGroup": false,
+      "appSiteCartNativePayTestGroup": false,
+      "isKioskSite": false,
+      "squareSyncUserId": "8e206f66-5281-45fe-a827-6a4a89c3feff",
+      "isServiceCutoverEnabled": true,
+      "skippedItemSync": false,
+      "migratedSquareOnlineSiteToMenus": false,
+      "blockFtux": {
+        "blog-header": [
+          "ftux-alert"
+        ]
+      },
+      "onboarded": {
+        "guidance": {
+          "version": "1",
+          "complete": false,
+          "welcomeComplete": false,
+          "instagramMiniSiteTipDismissed": true,
+          "guidanceMobileTrafficDismissedCount": 3
+        },
+        "isSiteDesignOnboarded": true,
+        "isVideoBannerAnnouncementDismissed": true,
+        "isCustomizationDiscoverabilityDismissed": true
+      },
+      "publishedAt": 1793625705,
+      "completedFtux": {
+        "APPOINTMENTS_SET_UP": true,
+        "INSTAGRAM_FEATURE_EXPLAINED": true
+      },
+      "websiteNotices": {
+        "siteSettingsTrial": true
+      },
+      "siteIconSettings": {
+        "updatedAt": 1792584548,
+        "splash_images": {
+          "config": {
+            "size": "2048",
+            "radius": 0,
+            "fontPath": "/var/www/public/static/fonts/Inter/inter-v13-latin-500.woff",
+            "iconType": "free",
+            "imageUrl": null,
+            "language": "en_AU",
+            "siteTitle": "The Wellness Collective",
+            "customColor": "#212121",
+            "primaryColor": "#212121",
+            "contrastColor": "#ffffff"
+          },
+          "2048x4435": "/uploads/b/7e68bf80-0c8f-11f0-a797-d18d89ca0d05/splash_2048x4435_NTk5OD.jpg"
+        },
+        "ios_icon_images": {
+          "config": {
+            "size": "180",
+            "radius": 0,
+            "fontPath": "/var/www/public/static/fonts/Inter/inter-v13-latin-500.woff",
+            "iconType": "free",
+            "imageUrl": null,
+            "language": "en_AU",
+            "siteTitle": "The Wellness Collective",
+            "customColor": "#212121",
+            "primaryColor": "#212121",
+            "contrastColor": "#ffffff"
+          },
+          "180x180": "/uploads/b/7e68bf80-0c8f-11f0-a797-d18d89ca0d05/icon_180x180_ios_MTgxNT.png"
+        },
+        "android_icon_images": {
+          "config": {
+            "size": "512",
+            "radius": 256,
+            "fontPath": "/var/www/public/static/fonts/Inter/inter-v13-latin-500.woff",
+            "iconType": "free",
+            "imageUrl": null,
+            "language": "en_AU",
+            "siteTitle": "The Wellness Collective",
+            "customColor": "#212121",
+            "primaryColor": "#212121",
+            "contrastColor": "#ffffff"
+          },
+          "512x512": "/uploads/b/7e68bf80-0c8f-11f0-a797-d18d89ca0d05/icon_512x512_android_NzIzNT.png"
+        }
+      },
+      "selectedDeviceView": "desktop",
+      "order_fulfillment_guides": "shipping",
+      "siteCountry": "AU",
+      "domain": {
+        "custom_domain": "www.seraliorawilde.com.au",
+        "subdomain": "seraliorawilde.square.site",
+        "site_id": 782810878450232473
+      }
+    }
+  },
+  "commerceLinks": {
+    "products": {},
+    "categories": {},
+    "meta": {
+      "pagination": {
+        "products": [],
+        "categories": {
+          "per_page": 2500,
+          "current_page": 1,
+          "total_pages": 1
+        }
+      }
+    }
+  },
+  "storeInfo": {
+    "merchant_id": "ML42ER3KH4QQT",
+    "buyer_customer_accounts_enabled": true,
+    "currency": "AUD",
+    "locale": "en_AU",
+    "language": "en_AU",
+    "syncing_disabled": true,
+    "return_policy": null,
+    "shipping_policy": null,
+    "max_donation_amount": 7000,
+    "store_mode": "cart",
+    "payment_method_support": {
+      "visa": true,
+      "mastercard": true,
+      "amex": true,
+      "discover": false,
+      "jcb": true,
+      "interac": false,
+      "paypal": false,
+      "apple_pay": true,
+      "google_pay": true,
+      "cash_app": false,
+      "square_pay": true
+    },
+    "show_pdp_buy_now_button": true,
+    "allowed_to_sell": true,
+    "accepting_orders": true,
+    "has_payment_processor": true,
+    "can_process_payments": true,
+    "is_group_ordering_enabled": false,
+    "product_reviews_enabled": false,
+    "show_on_sale_section": true,
+    "show_low_stock_section": true,
+    "show_out_of_stock_section": true,
+    "shipping_location_ids": [
+      "LJ0K14ABQKT1Q"
+    ],
+    "fulfillment_support": {
+      "delivery": false,
+      "pickup": false,
+      "shipping": true,
+      "dine_in": false,
+      "manual": false,
+      "digital": false
+    },
+    "seller_preferred_fulfillment": "delivery",
+    "locations_counts": {
+      "pickup": 0,
+      "delivery": 0,
+      "dine_in": 0,
+      "pickup_or_delivery": 0,
+      "brick_and_mortar_fulfillment": 0,
+      "shipping": 1,
+      "total": 1
+    },
+    "has_subscribable_items": false,
+    "has_shippable_product": false,
+    "has_time_based_categories": false,
+    "product_setting_low_stock_threshold": 5,
+    "category_hierarchy_root_ids": {
+      "site_category_id": null,
+      "id": null
+    }
+  }
+}

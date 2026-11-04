@@ -1,0 +1,221 @@
+{
+  "slug": "sonja",
+  "name": "Sonja - Dopamine and Dandelions",
+  "title": "Sonja - Dopamine and Dandelions",
+  "source": "https://www.seraliorawilde.com.au/sonja",
+  "texts": [
+    {
+      "text": "Edible Gardens • Plant Growing • Practical Gardening Support\n\n🌱 Soul to soil. Garden to plate. Planting seeds of change.\n\nSonja is the founder of Dopamine & Dandelions, a growing project inspired by a love of plants, learning through experience and reconnecting with the simple joys of growing.\n\nWhat began in a suburban backyard with a few pots of herbs, plenty of curiosity and a willingness to learn, has grown into a space dedicated to helping everyday people discover the rewards of gardening. \n\nHer philosophy is refreshingly down-to-earth: you don't need a huge backyard, expensive equipment or years of experience to start growing something beautiful or useful.\n\nThrough Dopamine & Dandelions, Sonja explores the connection between growing plants, creating a more grounded lifestyle and developing practical skills that can be used in everyday life.\n\n\n🌿 What Sonja Offers:\n\nEdible Gardens & Growing Food\nDiscover the possibilities of growing your own herbs, vegetables and other edible plants, whether you have a backyard, a courtyard, a balcony or just a few pots.\n\nPractical Garden Support\nGet inspiration and practical guidance to help you start growing, make the most of your available space and build confidence in caring for plants.\n\nPlants, Cottage Flowers & Indoor Greenery\nExplore plants that bring life, colour and purpose to your home and garden, from useful edible plants to cottage flowers and indoor favourites.\n\nSmall-Space Gardening & Plant Propagation\nLearn how to make the most of the space you have, experiment with propagation and find creative ways to grow more using what is already available.\n\nCreative, Sustainable Gardening\nDiscover ways to reuse materials, reduce waste, save money and build useful gardening skills over time.\n\nCommunity, Workshops & Shared Knowledge\nDopamine & Dandelions embraces the idea that gardening is better when knowledge is shared. Its wider vision includes workshops, collaborations and opportunities to learn from others working across areas such as permaculture, hydroponics and beekeeping.\n\n\n🌻 A Different Approach to Growing\n\nSonja's approach is about making gardening feel achievable rather than overwhelming. There is room to experiment, make mistakes, celebrate small wins and learn as you go.\n\nWorking with plants can offer a welcome opportunity to slow down, reconnect with nature and nurture something over time. Alongside these personal rewards, growing at home can help build practical skills, reduce waste and create opportunities to enjoy fresh food straight from the garden.\n\nWhether you're just beginning your gardening journey or looking for fresh inspiration for your home and outdoor space, Dopamine & Dandelions encourages you to start where you are and grow at your own pace.\n\nYou don't need perfect conditions. You just need to start. 🌱\n\n\nContact Sonja | Dopamine & Dandelions\nWebsite: https://dopamineanddandelions.com/\nEnquiries: Mobile 0480 634 313\nFacebook: @dopamineanddandelions\nInstagram: @dopaminedandelions\nTikTok: @dopaminedandelions\nYouTube: @dopamineanddandelions\nFor enquiries about plants, availability, garden support or potential collaborations, visit Sonja's website or get in touch via text or messenger.",
+      "ops": [
+        {
+          "insert": "Edible Gardens • Plant Growing • Practical Gardening Support",
+          "attributes": {
+            "bold": true,
+            "background": "var(--primary-subtle-light)"
+          }
+        },
+        {
+          "insert": "\n\n🌱 "
+        },
+        {
+          "insert": "Soul to soil. Garden to plate. Planting seeds of change.",
+          "attributes": {
+            "italic": true
+          }
+        },
+        {
+          "insert": "\n\nSonja is the founder of Dopamine & Dandelions, a growing project inspired by a love of plants, learning through experience and reconnecting with the simple joys of growing.\n\nWhat began in a suburban backyard with a few pots of herbs, plenty of curiosity and a willingness to learn, has grown into a space dedicated to helping everyday people discover the rewards of gardening. \n\nHer philosophy is refreshingly down-to-earth: you don't need a huge backyard, expensive equipment or years of experience to start growing something beautiful or useful.\n\nThrough Dopamine & Dandelions, Sonja explores the connection between growing plants, creating a more grounded lifestyle and developing practical skills that can be used in everyday life.\n\n\n"
+        },
+        {
+          "insert": "🌿 What Sonja Offers:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Edible Gardens & Growing Food",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nDiscover the possibilities of growing your own herbs, vegetables and other edible plants, whether you have a backyard, a courtyard, a balcony or just a few pots.\n\n"
+        },
+        {
+          "insert": "Practical Garden Support",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nGet inspiration and practical guidance to help you start growing, make the most of your available space and build confidence in caring for plants.\n\n"
+        },
+        {
+          "insert": "Plants, Cottage Flowers & Indoor Greenery",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nExplore plants that bring life, colour and purpose to your home and garden, from useful edible plants to cottage flowers and indoor favourites.\n\n"
+        },
+        {
+          "insert": "Small-Space Gardening & Plant Propagation",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nLearn how to make the most of the space you have, experiment with propagation and find creative ways to grow more using what is already available.\n\n"
+        },
+        {
+          "insert": "Creative, Sustainable Gardening",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nDiscover ways to reuse materials, reduce waste, save money and build useful gardening skills over time.\n\n"
+        },
+        {
+          "insert": "Community, Workshops & Shared Knowledge",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nDopamine & Dandelions embraces the idea that gardening is better when knowledge is shared. Its wider vision includes workshops, collaborations and opportunities to learn from others working across areas such as permaculture, hydroponics and beekeeping.\n\n\n"
+        },
+        {
+          "insert": "🌻 A Different Approach to Growing",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\nSonja's approach is about making gardening feel achievable rather than overwhelming. There is room to experiment, make mistakes, celebrate small wins and learn as you go.\n\nWorking with plants can offer a welcome opportunity to slow down, reconnect with nature and nurture something over time. Alongside these personal rewards, growing at home can help build practical skills, reduce waste and create opportunities to enjoy fresh food straight from the garden.\n\nWhether you're just beginning your gardening journey or looking for fresh inspiration for your home and outdoor space, Dopamine & Dandelions encourages you to start where you are and grow at your own pace.\n\n"
+        },
+        {
+          "insert": "You don't need perfect conditions. You just need to start.",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " 🌱\n\n\n"
+        },
+        {
+          "insert": "Contact Sonja | Dopamine & Dandelions",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Website:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " "
+        },
+        {
+          "insert": "https://dopamineanddandelions.com/",
+          "attributes": {
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "https://dopamineanddandelions.com/"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Enquiries:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Mobile 0480 634 313\n"
+        },
+        {
+          "insert": "Facebook:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " @dopamineanddandelions\n"
+        },
+        {
+          "insert": "Instagram:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " @dopaminedandelions\n"
+        },
+        {
+          "insert": "TikTok:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " @dopaminedandelions\n"
+        },
+        {
+          "insert": "YouTube:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " @dopamineanddandelions\nFor enquiries about plants, availability, garden support or potential collaborations, visit Sonja's website or get in touch via text or messenger.\n"
+        }
+      ]
+    },
+    {
+      "text": "Sonja | Dopamine & Dandelions",
+      "ops": [
+        {
+          "insert": "Sonja | Dopamine & Dandelions"
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Screenshot%202026-10-15%20at%2011.01.27%E2%80%AFpm_1792069509.png",
+      "alt": "Screenshot 2026-10-15 ... pm.png",
+      "width": 926,
+      "height": 1062,
+      "local": "/images/ecd87b0afe6f.png"
+    }
+  ],
+  "links": []
+}

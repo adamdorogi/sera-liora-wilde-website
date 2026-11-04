@@ -1,0 +1,278 @@
+{
+  "slug": "thepurewaterspecialists",
+  "name": "The Pure Water Specialists",
+  "title": "The Pure Water Specialists",
+  "source": "https://www.seraliorawilde.com.au/thepurewaterspecialists",
+  "texts": [
+    {
+      "text": "The Pure Water Specialists\n\nSupplying The Wellness Collective with the best drinking water around !\n\nContact them today for:\nFiltration Systems\nService and Installation\nParts & Cartridges\nBottled Water Supply\nWater Coolers – Home / Office (Rent or Buy)\n\nFREE DELIVERY TO YOUR DOOR\n\nContact Melissa & MJ:\n\nPhone: 0466 155 354\n\nAddress: Unit 4, 73–75 Steel Street\nCapalaba QLD 4157\n\nWebsite:\nwww.thepurewaterspecialists.com.au⁠\n\n Email:\noffice@thepurewaterspecialists.com.au\n\nFacebook:\nfacebook.com/thepurewaterspecialists\n\nThe Pure Water Specialists have been delivering high-quality pure and alkaline water solutions since 1992.\n\nThey specialise in filtration systems, bottled water supply, and home or office water coolers, offering professional installation, servicing, and ongoing support.\n\nAll products are BPA-free, environmentally conscious, and delivered directly to your door for convenience and peace of mind.\n\nBPA Free Products\nRecyclable Containers\nMember of RCA Australia (Registered Water Professionals)\nOperating Since 1992",
+      "ops": [
+        {
+          "insert": "The Pure Water Specialists",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\nSupplying The Wellness Collective with the best drinking water around !\n\nContact them today for:\n"
+        },
+        {
+          "insert": "Filtration Systems",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Service and Installation",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Parts & Cartridges",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Bottled Water Supply",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Water Coolers – Home / Office",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " (Rent or Buy)"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "FREE DELIVERY TO YOUR DOOR",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Contact Melissa & MJ:",
+          "attributes": {
+            "bold": true,
+            "background": "var(--primary-subtle-light)"
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Phone",
+          "attributes": {
+            "bold": true,
+            "background": "var(--primary-subtle-light)"
+          }
+        },
+        {
+          "insert": ": 0466 155 354",
+          "attributes": {
+            "background": "var(--primary-subtle-light)"
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Address:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Unit 4, 73–75 Steel Street\nCapalaba QLD 4157\n\n"
+        },
+        {
+          "insert": "Website:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "www.thepurewaterspecialists.com.au",
+          "attributes": {
+            "color": "#1155cc",
+            "wLink": {
+              "tab": true,
+              "link": {
+                "external": "http://www.thepurewaterspecialists.com.au/"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "⁠\n\n "
+        },
+        {
+          "insert": "Email:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "office@thepurewaterspecialists.com.au",
+          "attributes": {
+            "color": "#1155cc",
+            "wLink": {
+              "tab": true,
+              "link": {
+                "external": "mailto:office@thepurewaterspecialists.com.au"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Facebook:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "facebook.com/thepurewaterspecialists",
+          "attributes": {
+            "color": "#1155cc",
+            "wLink": {
+              "tab": true,
+              "link": {
+                "external": "http://facebook.com/thepurewaterspecialists"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\nThe Pure Water Specialists have been delivering high-quality pure and alkaline water solutions since 1992.\n\nThey specialise in filtration systems, bottled water supply, and home or office water coolers, offering professional installation, servicing, and ongoing support.\n\nAll products are "
+        },
+        {
+          "insert": "BPA-free",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ", environmentally conscious, and delivered directly to your door for convenience and peace of mind.\n\nBPA Free Products\nRecyclable Containers\nMember of RCA Australia (Registered Water Professionals)\nOperating Since 1992\n\n"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Pure%20Water_1772030638.png",
+      "alt": "Pure Water.png",
+      "width": 1536,
+      "height": 1024,
+      "local": "/images/1be7a9df3187.png"
+    }
+  ],
+  "links": [
+    {
+      "link": {
+        "tab": false,
+        "link": {
+          "external": "http://www.thepurewaterspecialists.com.au"
+        },
+        "type": "external"
+      },
+      "figure": {
+        "name": "Pure Water.png",
+        "width": 1536,
+        "height": 1024,
+        "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/2026-10-15_23-30-44_1792071104.png",
+        "altText": "",
+        "original": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Pure%20Water_1772030638.png",
+        "sourceSet": {
+          "400w": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/2026-10-15_23-30-44_1792071104.png?width=400",
+          "800w": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/2026-10-15_23-30-44_1792071104.png?width=800",
+          "1200w": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/2026-10-15_23-30-44_1792071104.png?width=1200",
+          "1600w": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/2026-10-15_23-30-44_1792071104.png?width=1600",
+          "2000w": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/2026-10-15_23-30-44_1792071104.png?width=2000",
+          "2400w": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/2026-10-15_23-30-44_1792071104.png?width=2400"
+        },
+        "focalPoint": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "attribution": {},
+        "cropOptions": {
+          "zoom": 1,
+          "center": {
+            "x": 0.5373,
+            "y": 0.5
+          },
+          "realZoom": 1,
+          "rotation": 0
+        },
+        "positionPoint": {
+          "x": 0.5373,
+          "y": 0.5
+        }
+      },
+      "hidden": false
+    },
+    {
+      "tab": false,
+      "link": {
+        "external": "http://www.thepurewaterspecialists.com.au"
+      },
+      "type": "external"
+    }
+  ]
+}

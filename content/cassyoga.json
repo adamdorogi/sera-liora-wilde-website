@@ -1,0 +1,251 @@
+{
+  "slug": "cassyoga",
+  "name": "Cassandra Bennet Yoga",
+  "title": "Cassandra Bennet Yoga",
+  "source": "https://www.seraliorawilde.com.au/cassyoga",
+  "texts": [
+    {
+      "text": "Cassandra Bennet is the founder of Elio Yoga, based in Gumdale, Brisbane. \n\nPassionate about joyful movement and holistic wellbeing, Cassandra offers a diverse range of yoga practices designed to help you reconnect with your body, build strength, explore movement and nurture your mind-body connection.\n\nHer classes blend mindful movement, breathwork, strength and playful exploration, creating opportunities to move beyond your comfort zone while respecting your body's individual needs. \n\nWhether you're looking to build physical strength, explore inversions, flow with your breath or find greater calm and connection, Cassandra welcomes you to discover a practice that feels right for you.\n\nFrom dynamic Vinyasa Flow infused with elements of Kundalini to gentle, mindful Somatic Yoga, Cassandra's offerings cater to different needs and intentions. \nHer Yoga Extension classes focus on developing deeper core strength and supporting joint stability, while her playful, prop-assisted Inversions classes invite you to explore new perspectives, build confidence and discover what your body can do.\n\nCassandra's approach celebrates movement as a way to support physical vitality, mental wellbeing and a deeper connection with yourself. \n\nWhether you're new to yoga or looking to expand your existing practice, you're invited to come as you are, move with curiosity and experience the joy of movement in a welcoming environment.\n\n✨ Classes & Offerings\n\nInversions\nAn energising, playful class exploring inversions through prop-assisted asanas and supported practices. Build confidence, explore balance and discover new possibilities for movement.\n\nYoga Extension\nA dynamic class focusing on developing deeper core strength and supporting the body's joints through mindful, strengthening movement.\n\nVinyasa Flow\nA beautiful, flowing yoga practice incorporating elements of Kundalini and joyful movement to connect breath and body.\n\nSomatic Yoga\nA mindful movement practice focused on body awareness, nervous system wellbeing and creating space to slow down, reconnect and unwind.\n\n🗓️ Class Timetable\n\nTuesday: \nInversions 9:30am 60 minutes\nYoga Extension 10:30am 60 minutes \n\nFriday: \t\nVinyasa Flow 9:00am 60 minutes \nSomatic Yoga 10:00am 60 minutes\n\n💰 Pricing\nCasual class: $20\n10-class pass: $150 — save 25% compared with casual attendance.\n\n📍 Location\nElio Yoga\nGumdale, Queensland 4154. \n\n📞 Bookings & Contact\nCassandra Bennet\nPhone: 0481 873 333\nWebsite: https://elioyoga.com.au/",
+      "ops": [
+        {
+          "insert": "Cassandra Bennet is the founder of Elio Yoga, based in Gumdale, Brisbane. \n\nPassionate about joyful movement and holistic wellbeing, Cassandra offers a diverse range of yoga practices designed to help you reconnect with your body, build strength, explore movement and nurture your mind-body connection.\n\nHer classes blend mindful movement, breathwork, strength and playful exploration, creating opportunities to move beyond your comfort zone while respecting your body's individual needs. \n\nWhether you're looking to build physical strength, explore inversions, flow with your breath or find greater calm and connection, Cassandra welcomes you to discover a practice that feels right for you.\n\nFrom dynamic Vinyasa Flow infused with elements of Kundalini to gentle, mindful Somatic Yoga, Cassandra's offerings cater to different needs and intentions. \nHer Yoga Extension classes focus on developing deeper core strength and supporting joint stability, while her playful, prop-assisted Inversions classes invite you to explore new perspectives, build confidence and discover what your body can do.\n\nCassandra's approach celebrates movement as a way to support physical vitality, mental wellbeing and a deeper connection with yourself. \n\nWhether you're new to yoga or looking to expand your existing practice, you're invited to come as you are, move with curiosity and experience the joy of movement in a welcoming environment.\n\n"
+        },
+        {
+          "insert": "✨ Classes & Offerings",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Inversions",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nAn energising, playful class exploring inversions through prop-assisted asanas and supported practices. Build confidence, explore balance and discover new possibilities for movement.\n\n"
+        },
+        {
+          "insert": "Yoga Extension",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nA dynamic class focusing on developing deeper core strength and supporting the body's joints through mindful, strengthening movement.\n\n"
+        },
+        {
+          "insert": "Vinyasa Flow",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nA beautiful, flowing yoga practice incorporating elements of Kundalini and joyful movement to connect breath and body.\n\n"
+        },
+        {
+          "insert": "Somatic Yoga",
+          "attributes": {
+            "bold": true,
+            "italic": true
+          }
+        },
+        {
+          "insert": "\nA mindful movement practice focused on body awareness, nervous system wellbeing and creating space to slow down, reconnect and unwind.\n\n"
+        },
+        {
+          "insert": "🗓️ Class Timetable",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\nTuesday: \n"
+        },
+        {
+          "insert": "Inversions",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " 9:30am 60 minutes\n"
+        },
+        {
+          "insert": "Yoga Extension",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " 10:30am 60 minutes "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "\nFriday: \t"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "Vinyasa Flow",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " 9:00am 60 minutes "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "Somatic Yoga",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " 10:00am 60 minutes"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "💰 Pricing",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Casual class:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " $20"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "10-class pass:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " $150 — save 25% compared with casual attendance."
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "📍 Location",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Elio Yoga",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nGumdale, Queensland 4154. "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "📞 Bookings & Contact",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Cassandra Bennet",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nPhone: 0481 873 333\nWebsite: https://elioyoga.com.au/\n"
+        }
+      ]
+    },
+    {
+      "text": "Cassandra Bennet | Yoga Teacher",
+      "ops": [
+        {
+          "insert": "Cassandra Bennet | Yoga Teacher"
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Cass%20image_1791957411.jpeg",
+      "alt": "Cass image.jpeg",
+      "width": 3500,
+      "height": 2625,
+      "local": "/images/f099ac24a0c1.jpeg"
+    }
+  ],
+  "links": []
+}

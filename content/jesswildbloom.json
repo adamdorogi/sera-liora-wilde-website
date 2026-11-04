@@ -1,0 +1,575 @@
+{
+  "slug": "jesswildbloom",
+  "name": "Jess - Wildbloom Holistic Care",
+  "title": "Jess - Green Magick Alchemy.Co",
+  "source": "https://www.seraliorawilde.com.au/jesswildbloom",
+  "texts": [
+    {
+      "text": "WILDBLOOM HOLISTIC CARE 🌹",
+      "ops": [
+        {
+          "insert": "WILDBLOOM HOLISTIC CARE 🌹",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    },
+    {
+      "text": "♡ ✞ ❁ Sovereign care for women & mothers\n\nWildbloom Holistic Care offers nurturing, restorative experiences created especially for women and mothers, weaving together holistic bodywork, botanical skincare, feminine wellness, energy work and supportive practices.\n\nJess brings a gentle, intuitive approach to her work, creating space for women to slow down, reconnect with their bodies and receive deeply restorative care.\n\n🌸 FACIAL & SKIN RITUALS\n\nThe Botanical Refresh Facial\n45 minutes | $145\nA revitalising botanical facial incorporating focused lymphatic facial massage and a hydrating botanical mask.\n\nThe Skin & Spirit Infusion\n1 hour | $165\nWhere skincare meets energy work. Includes botanical cleansing, facial Gua Sha drainage and chakra balancing.\n\nThe Sculpt, Cup & Gua Sha Ritual\n1 hour 15 minutes | $230\nAn advanced, bespoke facial featuring deep manual facial sculpting, followed by your choice of targeted facial cupping or cooling Gua Sha drainage.\nFinished with a Botanical Finishing Infusion featuring herbal serums, plant-based oils and a cold-pressed floral mist.\n\n🌿 BODYWORK & MASSAGE RITUALS\n\nAromatherapy Massage — Rhythmic Reset\n1 hour | $170\nA grounding, sensory massage tailored to your needs, using bespoke essential-oil blends to encourage relaxation, flow and inner calm.\n\nThe Grounded Sole Reflexology Ritual\n1 hour | $150\nFoot reflexology combined with rhythmic, restorative massage of the feet and calves.\n\nThe Alchemical Body & Face Sculpt\n1 hour 45 minutes | $285\nWildbloom's most comprehensive ritual.\nIncludes:\n• 60 minutes full-body aromatherapy massage\n• 45 minutes intensive facial sculpting\n• Lymphatic drainage\n• Custom botanical tools\nThe Grounded Soul Balance\n1 hour 15 minutes | $200\nA total recalibration combining:\n• 45 minutes Grounded Sole Reflexology of the feet and calves\n• 30 minutes immersive chakra balancing\n\n🤰 MOTHERHOOD & FEMININE WISDOM\n\nPregnancy or Postpartum Massage\n1 hour | $160\nSpecialised, nurturing massage tailored to support the changing needs of your body during pregnancy or postpartum.\n\nThe Mother’s Blessing — Pregnancy\n2 hours | $255\nA sacred space for honouring the transition into motherhood.\nIncludes:\n• Aromatic herbal foot soak\n• Restorative pregnancy massage\n• Belly blessing\n• Reiki\n\nThe Mother’s Warming — Postpartum\n2 hours | $255\nA traditional-inspired postpartum warming ritual.\nIncludes:\n• Moxa womb care\n• Abdominal massage\n• Reiki\n• Traditional belly wrapping\n\nThe Womb Wisdom Ritual\n1 hour 45 minutes | $295\nA feminine wellness ritual combining professional womb massage with a personalised herbal Yoni Steam experience.\n\nSacred Yoni Steaming Journey\n1 hour 15 minutes | $210\nA meditative feminine wellness experience incorporating:\n• Personalised herbal Yoni Steam\n• Guided breathwork\n• Tea ceremony\n• Intuitive tarot guidance\n\n✨ ENERGETIC & SUPPORTIVE GUIDANCE\n\nHolistic Wellness Discovery Consultation\n45 minutes | $45\nNot sure which experience is right for you?\nA supportive consultation to discuss your current needs and intentions and explore a tailored pathway forward.\nTogether, you can co-create a session plan incorporating options such as restorative energetic bodywork, Reiki or somatic support.\n\nMindful Connection — Support Session\n1 hour 30 minutes | $30\nA dedicated space for gentle presence, deep listening and somatic support.\n\nAs a counselling student, Jess offers a compassionate, non-judgemental space where you can talk, cry, be heard or simply sit in quiet reflection.\n\nSessions may incorporate simple grounding practices such as mindful breathing and meditation.\n\nReiki & Sound Healing\n1 hour | $140\nAn intuitive energetic experience combining Reiki and sacred sound practices, designed to support relaxation, calm and a sense of energetic balance.\n\n🌹 MEET JESS\nWildbloom Holistic Care\nJess creates nurturing spaces for women and mothers through different seasons of life, with a focus on restorative bodywork, feminine wellness, holistic beauty, energetic care and supportive connection.\nHer offerings are designed to provide women with space to slow down, receive, reconnect with themselves and feel held through life's transitions.",
+      "ops": [
+        {
+          "insert": "♡ ✞ ❁ Sovereign care for women & mothers",
+          "attributes": {
+            "bold": true,
+            "italic": true,
+            "background": "var(--color-white)"
+          }
+        },
+        {
+          "insert": "\n\nWildbloom Holistic Care offers nurturing, restorative experiences created especially for women and mothers, weaving together "
+        },
+        {
+          "insert": "holistic bodywork, botanical skincare, feminine wellness, energy work and supportive practices",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ".\n\nJess brings a gentle, intuitive approach to her work, creating space for women to slow down, reconnect with their bodies and receive deeply restorative care.\n\n"
+        },
+        {
+          "insert": "🌸 FACIAL & SKIN RITUALS",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "The Botanical Refresh Facial",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "45 minutes | $145",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA revitalising botanical facial incorporating focused lymphatic facial massage and a hydrating botanical mask.\n\n"
+        },
+        {
+          "insert": "The Skin & Spirit Infusion",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour | $165",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nWhere skincare meets energy work. Includes botanical cleansing, facial Gua Sha drainage and chakra balancing.\n\n"
+        },
+        {
+          "insert": "The Sculpt, Cup & Gua Sha Ritual",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour 15 minutes | $230",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nAn advanced, bespoke facial featuring deep manual facial sculpting, followed by your choice of targeted facial cupping or cooling Gua Sha drainage.\nFinished with a Botanical Finishing Infusion featuring herbal serums, plant-based oils and a cold-pressed floral mist.\n\n"
+        },
+        {
+          "insert": "🌿 BODYWORK & MASSAGE RITUALS",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Aromatherapy Massage — Rhythmic Reset",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour | $170",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA grounding, sensory massage tailored to your needs, using bespoke essential-oil blends to encourage relaxation, flow and inner calm.\n\n"
+        },
+        {
+          "insert": "The Grounded Sole Reflexology Ritual",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour | $150",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nFoot reflexology combined with rhythmic, restorative massage of the feet and calves.\n\n"
+        },
+        {
+          "insert": "The Alchemical Body & Face Sculpt",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour 45 minutes | $285",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nWildbloom's most comprehensive ritual.\nIncludes:\n• 60 minutes full-body aromatherapy massage\n• 45 minutes intensive facial sculpting\n• Lymphatic drainage\n• Custom botanical tools\nThe Grounded Soul Balance\n"
+        },
+        {
+          "insert": "1 hour 15 minutes | $200",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA total recalibration combining:\n• 45 minutes Grounded Sole Reflexology of the feet and calves\n• 30 minutes immersive chakra balancing\n\n"
+        },
+        {
+          "insert": "🤰 MOTHERHOOD & FEMININE WISDOM",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Pregnancy or Postpartum Massage",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour | $160",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nSpecialised, nurturing massage tailored to support the changing needs of your body during pregnancy or postpartum.\n\n"
+        },
+        {
+          "insert": "The Mother’s Blessing — Pregnancy",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "2 hours | $255",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA sacred space for honouring the transition into motherhood.\nIncludes:\n• Aromatic herbal foot soak\n• Restorative pregnancy massage\n• Belly blessing\n• Reiki\n\n"
+        },
+        {
+          "insert": "The Mother’s Warming — Postpartum",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "2 hours | $255",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA traditional-inspired postpartum warming ritual.\nIncludes:\n• Moxa womb care\n• Abdominal massage\n• Reiki\n• Traditional belly wrapping\n\n"
+        },
+        {
+          "insert": "The Womb Wisdom Ritual",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour 45 minutes | $295",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA feminine wellness ritual combining professional womb massage with a personalised herbal Yoni Steam experience.\n\n"
+        },
+        {
+          "insert": "Sacred Yoni Steaming Journey",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour 15 minutes | $210",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA meditative feminine wellness experience incorporating:\n• Personalised herbal Yoni Steam\n• Guided breathwork\n• Tea ceremony\n• Intuitive tarot guidance\n\n"
+        },
+        {
+          "insert": "✨ ENERGETIC & SUPPORTIVE GUIDANCE",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Holistic Wellness Discovery Consultation",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "45 minutes | $45",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nNot sure which experience is right for you?\nA supportive consultation to discuss your current needs and intentions and explore a tailored pathway forward.\nTogether, you can co-create a session plan incorporating options such as restorative energetic bodywork, Reiki or somatic support.\n\n"
+        },
+        {
+          "insert": "Mindful Connection — Support Session",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour 30 minutes | $30",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nA dedicated space for gentle presence, deep listening and somatic support.\n\nAs a "
+        },
+        {
+          "insert": "counselling student",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ", Jess offers a compassionate, non-judgemental space where you can talk, cry, be heard or simply sit in quiet reflection.\n\nSessions may incorporate simple grounding practices such as mindful breathing and meditation.\n\n"
+        },
+        {
+          "insert": "Reiki & Sound Healing",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "1 hour | $140",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nAn intuitive energetic experience combining Reiki and sacred sound practices, designed to support relaxation, calm and a sense of energetic balance.\n\n"
+        },
+        {
+          "insert": "🌹 MEET JESS",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Wildbloom Holistic Care",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nJess creates nurturing spaces for women and mothers through different seasons of life, with a focus on restorative bodywork, feminine wellness, holistic beauty, energetic care and supportive connection.\nHer offerings are designed to provide women with space to slow down, receive, reconnect with themselves and feel held through life's transitions.\n"
+        }
+      ]
+    },
+    {
+      "text": "jJess \n\n WILDBLOOM HOLISTIC CARE",
+      "ops": [
+        {
+          "insert": "jJess "
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": " WILDBLOOM HOLISTIC CARE"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    },
+    {
+      "text": "📅 BOOK WITH JESS — WILDBLOOM HOLISTIC CARE 🌹\nReady to book your Wildbloom experience?\n👉 BOOK WITH JESS ONLINE HERE:\nhttps://bio.site/WildbloomHolisticCare\n♡ ✞ ❁\n📍 LOCATIONS\n~ Self Love Lounge — Milton QLD\n~ The Wellness Collective — Birkdale QLD\n🚗 Mobile in-home service available\n+$25 travel fee\n🗓️ Monday & Tuesday: Milton\n🌙 Weekends: By request only\n🌐 Wildbloom Holistic Care:\nhttps://bio.site/WildbloomHolisticCare",
+      "ops": [
+        {
+          "insert": "📅 BOOK WITH JESS — WILDBLOOM HOLISTIC CARE 🌹",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Ready to book your Wildbloom experience?",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "👉 BOOK WITH JESS ONLINE HERE:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "https://bio.site/WildbloomHolisticCare",
+          "attributes": {
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "https://bio.site/WildbloomHolisticCare"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "♡ ✞ ❁",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "📍 LOCATIONS",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "~ Self Love Lounge — Milton QLD",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "~ The Wellness Collective — Birkdale QLD",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "🚗 Mobile in-home service available",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "+$25 travel fee",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "🗓️ Monday & Tuesday:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Milton\n🌙 "
+        },
+        {
+          "insert": "Weekends:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " By request only\n🌐 "
+        },
+        {
+          "insert": "Wildbloom Holistic Care:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "https://bio.site/WildbloomHolisticCare",
+          "attributes": {
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "https://bio.site/WildbloomHolisticCare"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\n"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/WILDBLOOM%20HOLSTIC%20CARE_1787231026.jpeg",
+      "alt": "WILDBLOOM HOLSTIC CARE.jpeg",
+      "width": 768,
+      "height": 1364,
+      "local": "/images/6755076b2bb7.jpeg"
+    },
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/JESS%20GMA%20PIC_1772075620.jpeg",
+      "alt": "JESS GMA PIC.jpeg",
+      "width": 1536,
+      "height": 2048,
+      "local": "/images/019077963868.jpeg"
+    }
+  ],
+  "links": [
+    {
+      "link": {
+        "tab": false,
+        "link": {
+          "external": "https://bio.site/WildbloomHolisticCare"
+        },
+        "type": "external"
+      },
+      "label": "BOOK WITH JESS HERE\n"
+    },
+    {
+      "tab": false,
+      "link": {
+        "external": "https://bio.site/WildbloomHolisticCare"
+      },
+      "type": "external"
+    }
+  ]
+}

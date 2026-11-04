@@ -1,0 +1,293 @@
+{
+  "slug": "lily",
+  "name": "Lily - Yoga / Lomi / Sound",
+  "title": "Lily ",
+  "source": "https://www.seraliorawilde.com.au/lily",
+  "texts": [
+    {
+      "text": "Contact Number \n0415 072 863 \n\nLocations \nThe Wellness Collective (Birkdale)\nCarbrook at my home \nMobile to you - Brisbane to Gold Coast \n\nAvailability \nI have fairly open availability, contact me with a date & time & we'll go from there ( :\n\nTime Options \n45, 60, 90, 120min booking options \n\nOfferings \nYoga 1:1  (YIN, RESTORATIVE, GENTLE FLOW, HATHA, VINYASA) meditation inclusive \nSound healing/ bath experience (sound instruments & guided meditation) \nMassage \nlomi lomi (traditional hawaiian massage, lymphatic drainage promotion) \nrelaxation \nfacials \nindian head massage \nI am also open to packages & bundles of multiple sessions or cross over treatments ( : \nPrices vary depending on session type, please text or call to enquire 0415 072 863 \n\nBackground\nI come from nursing those in addiction recovery & mental health NDIS participants. I'm a humanitarian & feel deeply everyone deserves love, compassion & space to heal. \n\nI've worked in rehabs doing 1:1 & group facilitations on the gold coast then transitioned into yoga studios where I then began to add onto my skills and qualifications and continue to study massage and work at bathhouses in brisbane! \nwhich further developed my confidence & connection to higher self, guiding me in the pursuance of my own endeavours. \n\n\"Every person has a different experience in my space, each session personal, private & sacred.\"  \n\nWhat lights me up about the work I do is the honour of giving someone the space to surrender & just be in presence. Also, the overall energy shift of clients from beginning of the session/ practice to the end... moving.",
+      "ops": [
+        {
+          "insert": "Contact Number ",
+          "attributes": {
+            "bold": true,
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "0415 072 863 ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Locations ",
+          "attributes": {
+            "bold": true,
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "The Wellness Collective (Birkdale)",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Carbrook at my home ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Mobile to you - Brisbane to Gold Coast ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Availability ",
+          "attributes": {
+            "bold": true,
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "I have fairly open availability, contact me with a date & time & we'll go from there ( :",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Time Options ",
+          "attributes": {
+            "bold": true,
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "45, 60, 90, 120min booking options ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Offerings ",
+          "attributes": {
+            "bold": true,
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\nYoga 1:1  (YIN, RESTORATIVE, GENTLE FLOW, HATHA, VINYASA) meditation inclusive "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Sound healing/ bath experience (sound instruments & guided meditation) "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Massage "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "lomi lomi (traditional hawaiian massage, lymphatic drainage promotion) "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "relaxation "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "facials "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "indian head massage "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "I am also open to packages & bundles of multiple sessions or cross over treatments ( : ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Prices vary depending on session type, please text or call to enquire 0415 072 863 ",
+          "attributes": {
+            "bold": true,
+            "color": "#000000",
+            "italic": true
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Background",
+          "attributes": {
+            "bold": true,
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "I come from nursing those in addiction recovery & mental health NDIS participants. I'm a humanitarian & feel deeply everyone deserves love, compassion & space to heal. ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "I've worked in rehabs doing 1:1 & group facilitations on the gold coast then transitioned into yoga studios where I then began to add onto my skills and qualifications and continue to study massage and work at bathhouses in brisbane! ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "which further developed my confidence & connection to higher self, guiding me in the pursuance of my own endeavours. ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "\"Every person has a different experience in my space, each session personal, private & sacred.\"  ",
+          "attributes": {
+            "bold": true,
+            "color": "#000000",
+            "italic": true
+          }
+        },
+        {
+          "insert": "\n\nWhat lights me up about the work I do is "
+        },
+        {
+          "insert": "the honour of giving someone the space to surrender & just be in presence. Also, the overall energy shift of clients from beginning of the session/ practice to the end... moving. ",
+          "attributes": {
+            "color": "#000000"
+          }
+        },
+        {
+          "insert": "\n\n"
+        }
+      ]
+    },
+    {
+      "text": "Lily",
+      "ops": [
+        {
+          "insert": "Lily",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Lily_1780307592.jpeg",
+      "alt": "Lily.jpeg",
+      "width": 3088,
+      "height": 2316,
+      "local": "/images/95b3d5230bf2.jpeg"
+    }
+  ],
+  "links": []
+}

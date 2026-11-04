@@ -1,0 +1,282 @@
+{
+  "slug": "josetoussaint",
+  "name": "José Toussaint Kinesiologist",
+  "title": "José Toussaint ",
+  "source": "https://www.seraliorawilde.com.au/josetoussaint",
+  "texts": [
+    {
+      "text": "Jose' Toussaint",
+      "ops": [
+        {
+          "insert": "Jose' Toussaint "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    },
+    {
+      "text": "A licensed Brain Gym Instructor/Consultant, Reiki Master and Kinesiologist / Touch for Health Teacher, and a little more :)",
+      "ops": [
+        {
+          "insert": "A licensed Brain Gym Instructor/Consultant, Reiki Master and Kinesiologist / Touch for Health Teacher, and a little more :)\n"
+        }
+      ]
+    },
+    {
+      "text": "José Toussaint is a Brisbane-based kinesiologist, educator, and facilitator with over two decades of experience in holistic health and movement-based learning.\n\nShe specialises in Touch for Health, Brain Gym (Educational Kinesiology), Neuroenergetic Kinesiology, and Primitive Reflex integration, supporting people to reconnect with their body’s innate intelligence and restore balance across physical, emotional, and mental wellbeing.\n\nOriginally from the Netherlands, José lived in New Zealand for ten years before settling in Australia in 2005. \nHer journey began in 2001 with Reiki and Neurolink. \nWhen she came to downunder she continued learning, practising and has been teaching since 2014. \nHer work is grounded, practical, and deeply human, shaped by years of working with individuals, families, students, and practitioners from all walks of life.\n\nJosé is a Touch for Health instructor (Levels 1–4) and offers workshops, practitioner training, and client sessions both face-to-face in Brisbane and online. \n\nShe is passionate about making complex concepts accessible, using movement, metaphor, and real-life examples to create meaningful learning experiences.\n\nJosé is known for her warmth, integrity, and showing up. It is important to her that she creates a safe and welcoming space where people feel seen, supported, and empowered to make lasting change.\n\n“Feel the difference with kinesiology.”\n\n Contact: \n0434 626 307 directly to schedule an appointment at The Wellness Collective BIRKDALE \n\n Schedule an Appointment at other locations: \nwww.createhappyminds.as.me\n\n Website: www.josetoussaint.com\n\nFacebook www.facebook.com/josetoussaintchm\n\nYoutube; http://www.youtube.com/@createhappyminds\n\nLinkedIn: www.linkedin.com/in/josetoussaint11\n\nPlease feel free to share my contact details with anyone interested in their healing journey. \n\n\nI acknowledge the traditional custodians of the lands and seas where I work. I pay my respects to Elders, past, present and future.",
+      "ops": [
+        {
+          "insert": "José Toussaint",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " is a Brisbane-based kinesiologist, educator, and facilitator with over two decades of experience in holistic health and movement-based learning.\n\nShe specialises in "
+        },
+        {
+          "insert": "Touch for Health, Brain Gym (Educational Kinesiology), Neuroenergetic Kinesiology, and Primitive Reflex integration",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ", supporting people to reconnect with their body’s innate intelligence and restore balance across physical, emotional, and mental wellbeing.\n\nOriginally from the Netherlands, José lived in New Zealand for ten years before settling in Australia in 2005. \nHer journey began in 2001 with Reiki and Neurolink. \nWhen she came to downunder she continued learning, practising and has been teaching since 2014. \nHer work is grounded, practical, and deeply human, shaped by years of working with individuals, families, students, and practitioners from all walks of life.\n\nJosé is a "
+        },
+        {
+          "insert": "Touch for Health instructor (Levels 1–4)",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " and offers workshops, practitioner training, and client sessions both "
+        },
+        {
+          "insert": "face-to-face in Brisbane and online",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ". \n\nShe is passionate about making complex concepts accessible, using movement, metaphor, and real-life examples to create meaningful learning experiences.\n\nJosé is known for her warmth, integrity, and showing up. It is important to her that she creates a safe and welcoming space where people feel seen, supported, and empowered to make lasting change.\n\n"
+        },
+        {
+          "insert": "“Feel the difference with kinesiology.”",
+          "attributes": {
+            "italic": true
+          }
+        },
+        {
+          "insert": "\n\n "
+        },
+        {
+          "insert": "Contact",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ": "
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "0434 626 307",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " directly to schedule an appointment at The Wellness Collective "
+        },
+        {
+          "insert": "BIRKDALE ",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "\n Schedule an Appointment at other locations: \n"
+        },
+        {
+          "insert": "www.createhappyminds.as.me",
+          "attributes": {
+            "color": "#1155cc",
+            "wLink": {
+              "tab": true,
+              "link": {
+                "external": "http://www.createhappyminds.as.me/"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\n Website: "
+        },
+        {
+          "insert": "www.josetoussaint.com",
+          "attributes": {
+            "color": "#1155cc",
+            "wLink": {
+              "tab": true,
+              "link": {
+                "external": "http://www.josetoussaint.com/"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\nFacebook "
+        },
+        {
+          "insert": "www.facebook.com/josetoussaintchm",
+          "attributes": {
+            "wLink": {
+              "tab": true,
+              "link": {
+                "external": "http://www.facebook.com/josetoussaintchm"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "Youtube; ",
+          "attributes": {
+            "italic": true
+          }
+        },
+        {
+          "insert": "http://www.youtube.com/@createhappyminds",
+          "attributes": {
+            "color": "#467886",
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "http://www.youtube.com/@createhappyminds"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\n"
+        },
+        {
+          "insert": "LinkedIn: ",
+          "attributes": {
+            "italic": true
+          }
+        },
+        {
+          "insert": "www.linkedin.com/in/josetoussaint11",
+          "attributes": {
+            "color": "#467886",
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "http://www.linkedin.com/in/josetoussaint11"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\nPlease feel free to share my contact details with anyone interested in their healing journey. \n\n\nI acknowledge the traditional custodians of the lands and seas where I work. I pay my respects to Elders, past, present and future. \n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Touch%20for%20health_1772019504.jpg",
+      "alt": "Touch for health.jpg",
+      "width": 239,
+      "height": 231,
+      "local": "/images/e7edcf88308d.jpg"
+    }
+  ],
+  "links": [
+    {
+      "link": {
+        "tab": true,
+        "link": {
+          "external": "http://www.createhappyminds.as.me"
+        },
+        "type": "external"
+      },
+      "label": "Book with Jose at other locations\n"
+    },
+    {
+      "tab": true,
+      "link": {
+        "external": "http://www.createhappyminds.as.me"
+      },
+      "type": "external"
+    },
+    {
+      "link": {
+        "tab": true,
+        "link": {
+          "external": "https://youtu.be/nzbBIhB1nK4"
+        },
+        "type": "external"
+      },
+      "label": "Educational Kinesiology / Brain Gym Interview\n",
+      "hidden": false
+    },
+    {
+      "tab": true,
+      "link": {
+        "external": "https://youtu.be/nzbBIhB1nK4"
+      },
+      "type": "external"
+    },
+    {
+      "link": {
+        "tab": true,
+        "link": {
+          "external": "https://youtu.be/nzbBIhB1nK4"
+        }
+      },
+      "figure": {
+        "name": "Touch for health.jpg",
+        "width": 239,
+        "height": 231,
+        "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Touch%20for%20health_1772019504.jpg",
+        "altText": "",
+        "original": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/Touch%20for%20health_1772019504.jpg",
+        "sourceSet": {},
+        "attribution": {},
+        "cropOptions": null
+      },
+      "hidden": false
+    },
+    {
+      "tab": true,
+      "link": {
+        "external": "https://youtu.be/nzbBIhB1nK4"
+      }
+    }
+  ]
+}

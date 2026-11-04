@@ -1,0 +1,534 @@
+{
+  "slug": "jennyoceans",
+  "name": "Jenny Oceans - Cacao & Breathwork",
+  "title": "Jenny Oceans - Cacao & Breathwork",
+  "source": "https://www.seraliorawilde.com.au/jennyoceans",
+  "texts": [
+    {
+      "text": "Jenny Oceans is a nervous system expert, breathwork facilitator, trauma-informed coach and passionate educator dedicated to helping people create meaningful, lasting change from within.\n\nCombining nervous system education, somatic practices, mindset, breathwork and embodied awareness, Jenny supports people to move beyond chronic stress and overwhelm, reconnect with themselves and develop the tools to navigate life with greater self-awareness and resilience.\n\nHer work spans personal transformation, women's coaching, immersive retreats, facilitator education and ceremonial cacao. \n\nWhether guiding someone through a breathwork session, supporting women through her signature BECOMING program or training aspiring facilitators, Jenny's approach centres on self-understanding, intentional growth and the importance of creating safe, supportive spaces for transformation.\n\nAt the heart of everything Jenny creates is one belief: lasting transformation isn't about becoming someone else. It's about coming home to who you truly are.\n\n\n🌿 Nervous System Regulation & Breathwork\nJenny specialises in nervous system regulation, breathwork and trauma-informed somatic practices, helping people develop a deeper understanding of their bodies, stress responses and emotional patterns.\n\nThrough her signature RESET sessions and breathwork-based experiences, Jenny invites participants to slow down, reconnect with themselves and explore practices that support greater body awareness, emotional wellbeing and resilience.\n\nHer sessions combine breathwork, mindfulness and practical nervous system education in a supportive environment where participants can focus on their own experience.\n\nOfferings include:\nRESET breathwork sessions\nBreathwork-based experiences\nNervous system education and regulation\nTrauma-informed somatic practices\nSelf-love and self-connection sessions\n\nPricing\nIndividual RESET or Self-Love class: $25\nTen-class pass: $200 ($20 per class)\nPlease confirm current class schedules and pricing with Jenny.\n\n\n✨ BECOMING | Transformational Coaching for Women\nJenny is passionate about helping women create sustainable, meaningful change and build lives that feel aligned with who they truly are.\n\nHer signature eight-week BECOMING program combines nervous system education, mindset, breathwork and embodiment to help women recognise old patterns, reconnect with themselves and move towards the life they want to create.\n\nRather than focusing on temporary motivation, BECOMING centres on developing self-awareness, practical tools and self-trust to support meaningful change over time.\n\nThe program invites women to explore their values, deepen their relationship with themselves and make more intentional choices in their everyday lives.\n\nPricing: Contact Jenny for current program fees and enrolment details.\n\n\n🌺 Wellness Retreats & Immersive Experiences\nJenny creates immersive wellness experiences that invite people to step away from everyday demands and make space for reconnection, reflection and personal growth.\n\nBringing together practices such as breathwork, embodiment, nervous system education and ceremonial cacao, her retreats offer opportunities to slow down, explore new perspectives and connect with themselves and others in a supportive environment.\n\nEach experience is an invitation to be more present, reconnect with what matters and carry greater intention into everyday life.\n\nPricing: Contact Jenny for upcoming retreat dates, locations and booking details.",
+      "ops": [
+        {
+          "insert": "Jenny Oceans",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " is a nervous system expert, breathwork facilitator, trauma-informed coach and passionate educator dedicated to helping people create meaningful, lasting change from within.\n\nCombining nervous system education, somatic practices, mindset, breathwork and embodied awareness, Jenny supports people to move beyond chronic stress and overwhelm, reconnect with themselves and develop the tools to navigate life with greater self-awareness and resilience.\n\nHer work spans personal transformation, women's coaching, immersive retreats, facilitator education and ceremonial cacao. \n\nWhether guiding someone through a breathwork session, supporting women through her signature BECOMING program or training aspiring facilitators, Jenny's approach centres on self-understanding, intentional growth and the importance of creating safe, supportive spaces for transformation.\n\nAt the heart of everything Jenny creates is one belief: "
+        },
+        {
+          "insert": "lasting transformation isn't about becoming someone else. It's about coming home to who you truly are.",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n\n\n🌿"
+        },
+        {
+          "insert": " Nervous System Regulation & Breathwork",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nJenny specialises in nervous system regulation, breathwork and trauma-informed somatic practices, helping people develop a deeper understanding of their bodies, stress responses and emotional patterns.\n\nThrough her signature RESET sessions and breathwork-based experiences, Jenny invites participants to slow down, reconnect with themselves and explore practices that support greater body awareness, emotional wellbeing and resilience.\n\nHer sessions combine breathwork, mindfulness and practical nervous system education in a supportive environment where participants can focus on their own experience.\n\n"
+        },
+        {
+          "insert": "Offerings include:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nRESET breathwork sessions"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Breathwork-based experiences"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Nervous system education and regulation"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Trauma-informed somatic practices"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Self-love and self-connection sessions"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Pricing",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nIndividual RESET or Self-Love class: $25"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Ten-class pass: $200 ($20 per class)"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Please confirm current class schedules and pricing with Jenny.",
+          "attributes": {
+            "italic": true
+          }
+        },
+        {
+          "insert": "\n\n\n"
+        },
+        {
+          "insert": "✨ BECOMING | Transformational Coaching for Women",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nJenny is passionate about helping women create sustainable, meaningful change and build lives that feel aligned with who they truly are.\n\nHer signature eight-week BECOMING program combines nervous system education, mindset, breathwork and embodiment to help women recognise old patterns, reconnect with themselves and move towards the life they want to create.\n\nRather than focusing on temporary motivation, BECOMING centres on developing self-awareness, practical tools and self-trust to support meaningful change over time.\n\nThe program invites women to explore their values, deepen their relationship with themselves and make more intentional choices in their everyday lives.\n\n"
+        },
+        {
+          "insert": "Pricing:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Contact Jenny for current program fees and enrolment details.\n\n\n"
+        },
+        {
+          "insert": "🌺 Wellness Retreats & Immersive Experiences",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nJenny creates immersive wellness experiences that invite people to step away from everyday demands and make space for reconnection, reflection and personal growth.\n\nBringing together practices such as breathwork, embodiment, nervous system education and ceremonial cacao, her retreats offer opportunities to slow down, explore new perspectives and connect with themselves and others in a supportive environment.\n\nEach experience is an invitation to be more present, reconnect with what matters and carry greater intention into everyday life.\n\n"
+        },
+        {
+          "insert": "Pricing:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Contact Jenny for upcoming retreat dates, locations and booking details.\n"
+        }
+      ]
+    },
+    {
+      "text": "Nervous System Expert | Transformational Coach | Retreat Facilitator | IXNARA Cacao",
+      "ops": [
+        {
+          "insert": "Nervous System Expert | Transformational Coach | Retreat Facilitator | IXNARA Cacao",
+          "attributes": {
+            "color": "inherit"
+          }
+        },
+        {
+          "insert": "\n"
+        }
+      ]
+    },
+    {
+      "text": "🔥 Alchemy | Facilitator Training\nJenny is the founder of Alchemy, a facilitator training experience bringing together breathwork, nervous system education, trauma-informed practices, cold-water immersion and ceremonial cacao.\n\nThrough facilitator training, certification pathways and ongoing mentorship, Jenny supports aspiring facilitators to deepen their self-awareness, develop their skills and build the confidence to hold space for others with care and integrity.\n\nHer philosophy is simple: powerful facilitation begins with understanding yourself, the nervous system and the responsibility that comes with guiding another person's experience.\n\nTraining areas include:\nBreathwork facilitation\nNervous system education\nTrauma-informed practices\nCold-water immersion\nCeremonial cacao and ritual\nPersonal development and self-awareness\nFacilitation skills and mentorship\n\nPricing: Contact Jenny for upcoming training dates, certification information and current fees.\n\n\n🍫 IXNARA | Ceremonial Cacao & Cacao Priestess\nJenny is the founder of IXNARA, a premium ceremonial cacao brand created to honour the power of slowing down, reconnecting and remembering\n our worth.\n\nAs a Cacao Priestess and ceremony facilitator, Jenny brings people together through intentional cacao experiences combining connection, mindfulness, breathwork and ritual.\n\nThrough IXNARA and her Cacao Priestess training, she shares her passion for high-quality Peruvian ceremonial cacao, meaningful ritual and creating space for people to return to themselves.\nHer cacao offerings celebrate the opportunity to pause, gather in community and bring greater intention to everyday life.\n\nOfferings include:\nIXNARA ceremonial cacao\nCacao ceremonies and intentional gatherings\nCacao Priestess training\nBreathwork and mindfulness experiences\nRitual, reflection and community connection\n\nPricing: Contact Jenny for current cacao prices, ceremony tickets and training fees.\n\n\n💚 Living Aligned | Membership & Online Experiences\nFor those wanting to continue their personal development beyond in-person sessions, Jenny also offers online experiences and community-based resources.\n\nLiving Aligned provides a space for ongoing learning and self-connection, with offerings that include live calls, recorded meditations, breathwork videos, educational resources and community support.\n\nOne-on-one online sessions are also available for those seeking a more individual experience.\n\nPricing\nOne-on-one online session: $69 for 45 minutes\nLiving Aligned membership: $11 for the first month, then $11 per week\nPlease confirm current availability and membership inclusions before joining.\n\n\n📞 Connect with Jenny Oceans \n📍 Location: Jacobs Well, Queensland, Australia\n📱 Mobile: +61 431 623 544\n📧 Email: connect@jennyoceans.com\n🌐 Website: https://www.jennyoceans.com/\n📸 Instagram & Social Media: https://linktr.ee/jennyoceans\n\nWhether you're looking to reconnect with yourself, explore breathwork, join a transformational program, attend a retreat, train as a facilitator or experience ceremonial cacao, Jenny offers a range of pathways to explore personal growth, connection and embodied wellbeing.\n\nConnect with Jenny directly to discover the offering that's right for you.",
+      "ops": [
+        {
+          "insert": "🔥 Alchemy | Facilitator Training",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        },
+        {
+          "insert": "Jenny is the founder of Alchemy, a facilitator training experience bringing together breathwork, nervous system education, trauma-informed practices, cold-water immersion and ceremonial cacao.\n\nThrough facilitator training, certification pathways and ongoing mentorship, Jenny supports aspiring facilitators to deepen their self-awareness, develop their skills and build the confidence to hold space for others with care and integrity.\n\nHer philosophy is simple: powerful facilitation begins with understanding yourself, the nervous system and the responsibility that comes with guiding another person's experience.\n\n"
+        },
+        {
+          "insert": "Training areas include:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nBreathwork facilitation"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Nervous system education"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Trauma-informed practices"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Cold-water immersion"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Ceremonial cacao and ritual"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Personal development and self-awareness"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Facilitation skills and mentorship"
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Pricing:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Contact Jenny for upcoming training dates, certification information and current fees.\n\n\n"
+        },
+        {
+          "insert": "🍫 IXNARA | Ceremonial Cacao & Cacao Priestess",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nJenny is the founder of IXNARA, a premium ceremonial cacao brand created to honour the power of slowing down, reconnecting and remembering\n our worth.\n\nAs a Cacao Priestess and ceremony facilitator, Jenny brings people together through intentional cacao experiences combining connection, mindfulness, breathwork and ritual.\n\nThrough IXNARA and her Cacao Priestess training, she shares her passion for high-quality Peruvian ceremonial cacao, meaningful ritual and creating space for people to return to themselves.\nHer cacao offerings celebrate the opportunity to pause, gather in community and bring greater intention to everyday life.\n\n"
+        },
+        {
+          "insert": "Offerings include:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nIXNARA ceremonial cacao"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Cacao ceremonies and intentional gatherings"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Cacao Priestess training"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Breathwork and mindfulness experiences"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Ritual, reflection and community connection"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "\n"
+        },
+        {
+          "insert": "Pricing:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Contact Jenny for current cacao prices, ceremony tickets and training fees.\n\n\n"
+        },
+        {
+          "insert": "💚 Living Aligned | Membership & Online Experiences",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nFor those wanting to continue their personal development beyond in-person sessions, Jenny also offers online experiences and community-based resources.\n\nLiving Aligned provides a space for ongoing learning and self-connection, with offerings that include live calls, recorded meditations, breathwork videos, educational resources and community support.\n\nOne-on-one online sessions are also available for those seeking a more individual experience.\n\n"
+        },
+        {
+          "insert": "Pricing",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\nOne-on-one online session: $69 for 45 minutes"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Living Aligned membership: $11 for the first month, then $11 per week"
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet"
+          }
+        },
+        {
+          "insert": "Please confirm current availability and membership inclusions before joining.",
+          "attributes": {
+            "italic": true
+          }
+        },
+        {
+          "insert": "\n\n\n📞 "
+        },
+        {
+          "insert": "Connect with Jenny Oceans ",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n📍 "
+        },
+        {
+          "insert": "Location:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " Jacobs Well, Queensland, Australia\n📱 "
+        },
+        {
+          "insert": "Mobile:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " +61 431 623 544\n📧 "
+        },
+        {
+          "insert": "Email:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " "
+        },
+        {
+          "insert": "connect@jennyoceans.com",
+          "attributes": {
+            "color": "#463939",
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "mailto:connect@jennyoceans.com"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n🌐 "
+        },
+        {
+          "insert": "Website:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " "
+        },
+        {
+          "insert": "https://www.jennyoceans.com/",
+          "attributes": {
+            "color": "#463939",
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "https://www.jennyoceans.com/"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n📸 "
+        },
+        {
+          "insert": "Instagram & Social Media:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": " "
+        },
+        {
+          "insert": "https://linktr.ee/jennyoceans",
+          "attributes": {
+            "color": "#463939",
+            "wLink": {
+              "tab": false,
+              "link": {
+                "external": "https://linktr.ee/jennyoceans"
+              },
+              "type": "external"
+            }
+          }
+        },
+        {
+          "insert": "\n\nWhether you're looking to reconnect with yourself, explore breathwork, join a transformational program, attend a retreat, train as a facilitator or experience ceremonial cacao, Jenny offers a range of pathways to explore personal growth, connection and embodied wellbeing.\n\n"
+        },
+        {
+          "insert": "Connect with Jenny directly to discover the offering that's right for you.",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n"
+        }
+      ]
+    },
+    {
+      "text": "JENNY OCEANS",
+      "ops": [
+        {
+          "insert": "JENNY OCEANS",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "block": true
+          }
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/JENNY%203_1793621455.jpeg",
+      "alt": "JENNY 3.jpeg",
+      "width": 1179,
+      "height": 1412,
+      "local": "/images/37d997f293f2.jpeg"
+    },
+    {
+      "source": "/uploads/b/cf72ccc17751c706e3caf754cf08d4a32e839935424e92a14091caf3a46f8e20/JENNY%202_1793621466.jpeg",
+      "alt": "JENNY 2.jpeg",
+      "width": 1600,
+      "height": 1066,
+      "local": "/images/33f85bf1ef7a.jpeg"
+    }
+  ],
+  "links": []
+}
